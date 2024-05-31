@@ -1,10 +1,8 @@
-# Instructions
-1. Head over to any .po-file inside of a folder.
-### Folder structure
+# Folder structure
 ```
 module
   | LC_MESSAGES
-    | message.po <- this is the target-file
+    | message.po <- target-file
 ```
 
 ## Standard Translations
