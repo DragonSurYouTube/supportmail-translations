@@ -1,4 +1,11 @@
-If .po-files are provided, they look like this:
+# Instructions
+1. Head over to any .po-file inside of a folder.
+### Folder structure
+```
+module
+  | LC_MESSAGES
+    | message.po <- this is the target-file
+```
 
 ## Standard Translations
 ```py
