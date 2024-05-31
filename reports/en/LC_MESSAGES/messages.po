@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "TryAgainIn"
+msgstr "Try again {0}"
+
+msgid "InvalidInput"
+msgstr "Invalid Input"
+
+msgid "UserNotFound"
+msgstr "User is not in Server anymore."
+
+msgid "ReportingNotPossible"
+msgstr "Reporting a user is only possible if the user is a member of the server."
+
+msgid "YouTimedOut"
+msgstr "You timed out!"
+
+msgid "YouHad10Minutes"
+msgstr "You had 10 minutes to submit the report."
+
+msgid "ReportDetailsHadBeenSentToYourDMs"
+msgstr "Report details have been sent to your DMs."
+
+msgid "ReportDetailsCouldntBeSentToYourDMs"
+msgstr "Report details could not be sent to your DMs."
+
+msgid "ReportCreated"
+msgstr "Report created!"
+
+msgid "TakeAction"
+msgstr "Take Action"
+
+msgid "Timeout"
+msgstr "Timeout User"
+
+msgid "Kick"
+msgstr "Kick User"
+
+msgid "Ban"
+msgstr "Ban User"
+
+msgid "DeleteMessage"
+msgstr "Delete Highlighted Message"
+
+msgid "Ignore"
+msgstr "Ignore Report"
+
+msgid "Userinfo"
+msgstr "Userinfo"
+
+msgid "ReportedUser"
+msgstr "Reported User"
+
+msgid "Reporter"
+msgstr "Reporter"
+
+msgid "UserDetails"
+msgstr ""
+"- **User:** <@{userid}>\n"
+"- **ID:** `{userid}`\n"
+"- **Account created:** {usercreated}\n"
+"- **Joined Server:** {userjoined}"
+
+msgid "ReportedMessage"
+msgstr "Reported Message"
+
+msgid "RepliedTo"
+msgstr "Replied to"
+
+msgid "Reason"
+msgstr "Reason"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "UserNoMember"
+msgstr "User is not member of the server at the momemt"
+
+msgid "Attachments"
+msgstr "Attachments"
+
+msgid "LastMessageMetadataTitle"
+msgstr "Message Metadata"
+
+msgid "LastMessageMetadataDesc"
+msgstr ""
+"- **ID:** `{id}`\n"
+"- **Sent:** {messagesent}\n"
+"- **Channel:** {channel}"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "YouCantReportYourself"
+msgstr "You cannot report yourself!"
+
+msgid "OnCooldown"
+msgstr "Select another user"
+
+msgid "ReportUser"
+msgstr "Report User"
+
+msgid "ReportMessage"
+msgstr "Report Message"
+
+msgid "reasonPh"
+msgstr "Spam, Scam, NSFW, Harassment/Insulting, etc."
+
+msgid "commentPh"
+msgstr "Additional screenshots or information that could be important."
+
+msgid "Blacklisted"
+msgstr "You are not allowed to create Reports."
+
+msgid "UserIsImmune"
+msgstr "User is immune to Reports!"
+
+msgid "SomethingWentWrong"
+msgstr "Something went wrong"
+
+msgid "NoPermissions"
+msgstr "I'm missing some important permission in the alert-channel"
+
+msgid "GuildNotConfigured"
+msgstr "Guild not configured"
+
+msgid "ReportingNotEnabledInThisChannel"
+msgstr "No reports can be created in this channel."
+
+msgid "SelectUserToViewStats"
+msgstr "Select a user to view their stats."
+
+msgid "ReportNotFound"
+msgstr "Report not found."
+
+msgid "ReceivedReports"
+msgstr "Reports received"
+
+msgid "SubmittedReports"
+msgstr "Reports submitted"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "statusUpdate_ignore"
+msgstr "{0} | Ignored by <@{1}>"
+
+msgid "statusUpdate_timeout"
+msgstr "{0} | User timeouted until {1} by <@{2}>"
+
+msgid "statusUpdate_kick"
+msgstr "{0} | User kicked by <@{1}>"
+
+msgid "statusUpdate_banned"
+msgstr "{0} | User banned by <@{1}>"
+
+msgid "statusUpdate_deleted"
+msgstr "{0} | Reported message deleted by <@{1}>"
+
+msgid "ReportAlreadyIgnored"
+msgstr "Report already ignored"
+
+msgid "TryAgainInOrWaitUntilEditingFinished"
+msgstr "Try again in 5 minutes or wait until the editor finished editing this report."
+
+msgid "editingUser"
+msgstr "Editing User: <@{0}>"
+
+msgid "ReportIsCurrentlyBeingEdited"
+msgstr "Report is currently being edited"
+
+msgid "DeletingMessageFailed"
+msgstr "Deleting message failed"
+
+msgid "DeleteMessagesLabel"
+msgstr "Delete messages"
+
+msgid "TimestringPh"
+msgstr "Duration-Format:\ndocs.supportmail.dev/e/time-strings"
+
+msgid "KickingFailed"
+msgstr "Kicking the user failed"
+
+msgid "UpdateSuccessful"
+msgstr "Update Successful"
+
+msgid "ReasonPh"
+msgstr "The reason for this action (only get's displayed, not shared)"

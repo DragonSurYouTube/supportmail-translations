@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "tryAgainIn"
+msgstr "Try again {time}"
+
+msgid "youAreStillOnCooldown"
+msgstr "You are still on cooldown!"
+
+msgid "selectModteam"
+msgstr "Select the moderation team"
+
+msgid "selectSupportteam"
+msgstr "Select the support team"
+
+msgid "setupFailed"
+msgstr "Setup failed!"
+
+msgid "couldNotCreateCategory"
+msgstr "Could not create the category."
+
+msgid "couldNotCreateForum"
+msgstr "Could not create the forum."
+
+msgid "couldNotCreateChannel"
+msgstr "Could not create the channel."
+
+msgid "checkMyPermissions"
+msgstr "_Du solltest meine Berechtigungen auf dem Server überprüfen._"
+
+msgid "Tickets"
+msgstr "Tickets"
+
+msgid "Reports"
+msgstr "Reports"
+
+msgid "Success"
+msgstr "Success!"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Closed"
+msgstr "Closed"
+
+msgid "UserResponded"
+msgstr "User responded"
+
+msgid "WaitingForResponse"
+msgstr "Waiting for response"
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""

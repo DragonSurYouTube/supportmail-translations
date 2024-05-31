@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "RoleAddedBy"
+msgstr ""
+">>> <@&{id}> added by\n{adder}"
+
+msgid "UserAddedBy"
+msgstr ""
+">>> <@{id}> added by\n{adder}"
+
+msgid "ticketBlacklist"
+msgstr "Ticket Blacklist"
+
+msgid "reportBlacklist"
+msgstr "Report Blacklist"
+
+msgid "changePage"
+msgstr "Change Page"
+
+msgid "invalidPageNumber"
+msgstr "Invalid page number!"
+
+msgid "YouSureYouWantToResetBlacklist"
+msgstr "Are you sure you want to reset the selected blacklist?"
+
+msgid "ticketsReset"
+msgstr "The ticket blacklist has been successfully reset."
+
+msgid "reportsReset"
+msgstr "The report blacklist has been successfully reset."
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""
+
+# msgid ""
+# msgstr ""

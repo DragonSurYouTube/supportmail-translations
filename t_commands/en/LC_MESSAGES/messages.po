@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "TicketID"
+msgstr "**Ticket ID:** `{0}`"
+
+msgid "TicketClosed"
+msgstr "Ticket Closed"
+
+msgid "UserNotifiedQ"
+msgstr "User Notifed?"
+
+msgid "Error"
+msgstr "Error: "
+
+msgid "MissingPermissions"
+msgstr "I am missing Permissions!"
+
+msgid "noTicketErr"
+msgstr "This is not a ticket."
+
+msgid "runInATicketPost"
+msgstr "Run this command again, but in a ticket."
+
+msgid "comment"
+msgstr "Comment"
+
+msgid "InvalidInput"
+msgstr "Invalid Input"
+
+msgid "CloseRequest"
+msgstr "Close Request"
+
+msgid "CloseTheTicketOrDeny"
+msgstr "Close the ticket or deny the request."
+
+msgid "UserCanCloseTheTicketOrDeny"
+msgstr "The user can can now close the ticket or deny the request."
+
+msgid "AutoClose"
+msgstr "Automatic closure"
+
+msgid "UserNotFound"
+msgstr "User not found"
+
+msgid "MessagingUserFailed"
+msgstr "Messaging the user failed. Maybe he's not in the server anymore?"
+
+msgid "closeTicket"
+msgstr "Close Ticket"
+
+msgid "denyCloseRequest"
+msgstr "Deny"
+
+msgid "AutomaticClosure"
+msgstr "Closed automatically due to inactivity."
+
+msgid "UserLeftGuild"
+msgstr "User left the server"
+
+msgid "ClosingTicket"
+msgstr "Closing Ticket..."
+
+msgid "CloseRequestDeleted"
+msgstr "Close-request deleted"
+
+msgid "CloseRequestAutoDeleted"
+msgstr "Close-request automatically deleted due to recent activity in the ticket."
+
+msgid "JumpToOriginalInquiry"
+msgstr "Jump to the top"
+
+msgid "TicketReopened"
+msgstr "Ticket reopened"
+
+msgid "YourTicketGotReopened"
+msgstr "Your Ticket got reopened!"
+
+msgid "TicketDetailsDM"
+msgstr ""
+"- **Ticket ID:** `{ticket_id}`\n"
+"- **Opened:** <t:{open_ts}> (<t:{open_ts}:R>)"
+
+msgid "TicketIsStillOpen"
+msgstr "This Ticket is still open!"
+
+msgid "TicketNotFound"
+msgstr "icket not found. Is your input correct?"
+
+msgid "JumpToTicket"
+msgstr "[Jump to Ticket]({0})"
+
+msgid "thisTicketIsAlreadyClosed"
+msgstr "This Ticket is already closed."
+
+msgid "EnterValidNumber"
+msgstr "Enter a number between 0.1 and 48 (including both)"
+
+msgid "cR_Accepted"
+msgstr "Request accpeted"
+
+msgid "cR_Denied"
+msgstr "Request denied"
+
+msgid "NoOpenCR"
+msgstr "No open close-request found!"

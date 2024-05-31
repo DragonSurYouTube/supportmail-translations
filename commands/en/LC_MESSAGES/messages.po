@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "PanelControls"
+msgstr "Panel Controls"
+
+msgid "PanelControlsDesc"
+msgstr ""
+"Here you can configure and manage the panels.\n"
+"### Options:\n"
+"1. **Enter panel link:** Click on the button below to enter a link for an existing panel and edit it.\n"
+"2. **Configure new panel:** Click on the button below to configure and send a new panel.\n\n"
+"Please select one of the above options to continue."
+
+msgid "CreateNewPanel"
+msgstr "Create new panel"
+
+msgid "EditExistingPanel"
+msgstr "Edit existing panel"
+
+msgid "AnonymConfig"
+msgstr "Anonymity Config"
+
+msgid "anonymAliasExpl"
+msgstr ""
+"If enabled, users will see the configured alias instead of the user who replied.\n\n"
+"> Default: **{0}**"
+
+msgid "FreeVersion"
+msgstr ":warning: Free version"
+
+msgid "GoldNeededToConfigure"
+msgstr "You can use this function, but you need **SupportMail Gold** to configure it."
+
+msgid "MessageForwardingPreference"
+msgstr "Message forwarding preference"
+
+msgid "onlyMessagesWithMentionWillBeForwarded"
+msgstr "If enabled, only messages starting with the mention of <@1082707872565182614> will be forwarded to the user."
+
+msgid "CurrentConfiguration"
+msgstr "Current configuration"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "NotIgnoredBotsInTickets"
+msgstr "Bots that are not ignored in tickets"
+
+msgid "SelectBotsDesc"
+msgstr "Select bots who should be added and unselect bots you want to remove."
+
+msgid "SelectUpTo5"
+msgstr "Select up to 5"
+
+msgid "NoConfigFoundForThisModule"
+msgstr "No configuration found for this module."
+
+msgid "startConfigurationWithCompsBelow"
+msgstr "Start configuration using the components below."
+
+msgid "TicketPings"
+msgstr "Ticket-Pings"
+
+msgid "ReportPings"
+msgstr "Report-Pings"
+
+msgid "editPanelDesc"
+msgstr ""
+"Below you can see a preview of the panel-embed that should get sent.\n"
+"Edit it with the button below."
+
+msgid "ButtonConfiguration"
+msgstr "Button Configuration"
+
+msgid "panelButtonText"
+msgstr "Button Text"
+
+msgid "panelButtonEmoji"
+msgstr "Button Emoji"
+
+msgid "emojiPlh"
+msgstr "Unicode or Custom Emoji"
+
+msgid "clickToEditPanel"
+msgstr "Edit panel embed"
+
+msgid "noMarkdown"
+msgstr "No markdown here!"
+
+msgid "allMarkdown"
+msgstr "Full markdown supported!"
+
+msgid "PanelEmbedBuilder"
+msgstr "Panel-Embed Builder"
+
+msgid "panelTitle"
+msgstr "Embed Title"
+
+msgid "panelDesc"
+msgstr "Embed Description"
+
+msgid "embedColor"
+msgstr "Embed Color"
+
+msgid "colorPlh"
+msgstr "Format: docs.supportmail.dev/f/panel"
+
+msgid "editAlias"
+msgstr "Edit Alias"
+
+msgid "UserInputError"
+msgstr "Invalid Input!"
+
+msgid "InvalidChannelError"
+msgstr "Invalid Channel!"
+
+msgid "InvalidMessageError"
+msgstr "Invalid Message!"
+
+msgid "panelSendButton"
+msgstr "Send Panel"
+
+msgid "JumpToPanel"
+msgstr "Jump to panel"
+
+msgid "panelCreatedTitle"
+msgstr "Panel created"
+
+msgid "clickButtonToSendPanel"
+msgstr ""
+"Click the buttons below to\n"
+"- send the current panel\n"
+"- edit the current configuration another time"
+
+msgid "youTimedOut"
+msgstr "You timed out!"
+
+msgid "youHad5MinutesToClickTheButton"
+msgstr ""
+"You had 5 minutes to click the button, but you didn't.\n"
+"I have cancelled the changes you have already made for performance reasons."
+
+msgid "panelSent"
+msgstr "Panel sent"
+
+msgid "panelEdited"
+msgstr "Message edited"
+
+msgid "editPanel"
+msgstr "Edit panel"
+
+msgid "linkToPanel"
+msgstr "Message-Link"
+
+msgid "createNewEmbed"
+msgstr "Create a new embed"
+
+msgid "selcetChannelForPanel"
+msgstr "Select the channel for the new panel.\nYou can configure the panel later."
+
+msgid "Serverteam"
+msgstr "Serverteam"
+
+msgid "CreatePanelButton"
+msgstr "Create Panel"
+
+msgid "clickButtonToCreatePanel"
+msgstr ""
+"Now that you have selected a channel, you can edit the panel.\n"
+"You can currently change the channel if you want."
+
+msgid "addChannels"
+msgstr "Add Channels"
+
+msgid "removeChannels"
+msgstr "Remove Channels"
+
+msgid "TicketChannel"
+msgstr "Ticket-Forum"
+
+msgid "ReportChannel"
+msgstr "Report-Channel"
+
+msgid "ReportChannelDesc"
+msgstr ""
+"This describes the channel where new reports get posted into.\n"
+"> Current Channel: {0}"
+
+msgid "ImmuneSettings"
+msgstr "Immunity Settings"
+
+msgid "ExcludedChannels"
+msgstr "Excluded Channels"
+
+msgid "IncludedChannels"
+msgstr "Included Channels"
+
+msgid "ExInChannels"
+msgstr "Excluded/Included Channels"
+
+msgid "SelectedChannelsAreExcluded"
+msgstr "Reports are NOT possible in selected channels"
+
+msgid "SelectedChannelsAreIncluded"
+msgstr "Reports are ONLY possible in selected channels"
+
+msgid "Modroles"
+msgstr "Modroles"
+
+msgid "ModrolesDesc"
+msgstr "Only the selected roles are able to use the buttons on report messages. (if enabled)"
+
+msgid "actionButtons"
+msgstr "Buttons on reports"
+
+msgid "YouSureYouWantToResetConfig"
+msgstr "Are you sure you want to reset the selected config?"
+
+msgid "premium"
+msgstr "Premium (SupportMail Gold)"
+
+msgid "premiumNA"
+msgstr ":x: No active subscription found."
+
+msgid "premiumD"
+msgstr "- Until: {until}\n\n_Your subscription will automatically renew unless you cancel it._"
+
+msgid "premiumUL"
+msgstr "**Unlimited**"
+
+msgid "TicketConfig"
+msgstr "Ticket Configuration"
+
+msgid "ReportConfig"
+msgstr "Report Configuration"
+
+msgid "notEnabled"
+msgstr "Not Enabled"
+
+msgid "ticketForum"
+msgstr "Ticket-Forum"
+
+msgid "maskedLinks"
+msgstr "Masked links"
+
+msgid "maskedLinksAreUnmasked"
+msgstr "Masked links are getting \"unmasked\" if a user sends masked links in their message."
+
+msgid "maskedLinksAreIgnored"
+msgstr "Masked links are ignored if a user sends a masked links in their message."
+
+msgid "FeatureEnabled"
+msgstr "Feature Enabled"
+
+msgid "FeatureDisabled"
+msgstr "Feature Disabled"
+
+msgid "MessageForwardingPreferenceEnabled"
+msgstr "Only messages starting with the mention of <@1082707872565182614> will be forwarded to the user. [Learn more](https://docs.supportmail.dev/)"
+
+msgid "generalConfig"
+msgstr "General Configuration"
+
+msgid "translationsLeft"
+msgstr "Translations left"
+
+msgid "language"
+msgstr "Language"
+
+msgid "FeatureAlreadyDisabled"
+msgstr "Feature Already Disabled"
+
+msgid "FeatureAlreadyEnabled"
+msgstr "Feature Already Enabled"
+
+msgid "anonymConfig"
+msgstr "Anonymity setting"
+
+msgid "addPings"
+msgstr "Add roles and users"
+
+msgid "reomvePings"
+msgstr "Remove roles and users"
+
+msgid "ResetNotExecuted"
+msgstr "Reset not executed."
+
+msgid "ModuleReset"
+msgstr "Module Reset"
+
+msgid "AliasLabel"
+msgstr "New Alias | Empty = Reset"
+
+msgid "TCreationMessage"
+msgstr "Ticket Creation Message"
+
+msgid "TCreationMessageDesc"
+msgstr ""
+"The message configured here will be sent as an additional Embed when someone creates a ticket in your server.\n"
+"You can configure the following options:\n"
+"- Text (Full Markdown supported)\n"
+"- Color of the Embed (see [this guide](https://docs.supportmail.dev/f/panel) on how a color should look)\n"
+"- Image Link (see [this guide](https://docs.supportmail.dev/f/ticket-creation-message) for instructions)\n\n"
+"If you don't provide a valid image link, no error will be displayed, the image will simply not be displayed."
+
+msgid "TicketCreated"
+msgstr "Ticket Created"
+
+msgid "ConfigureCreationMessage"
+msgstr "Configure Message"
+
+msgid "ImageLink"
+msgstr "Image Link | Empty = Remove"
+
+msgid "ImageLinkPh"
+msgstr "Format: docs.supportmail.dev/f/"
+
+msgid "EditImage"
+msgstr "Edit Image"
+
+msgid "Logging"
+msgstr "Logging"
+
+msgid "LoggingInfo"
+msgstr ""
+"Here you can configure logging for various events.\n"
+"> You can find a list of logable events [here](https://docs.supportmail.dev/f/logging#loggable-events).\n"
+"> Find out how it works [here](https://docs.supportmail.dev/commands/config/logging)."
+
+msgid "MissingWebhookPermissions"
+msgstr "I am missing permissions!\nI need to have the permission to `Create Webhooks` in the selected channel."
+
+msgid "Error"
+msgstr "Error"
+
+msgid "WebhookNotFound"
+msgstr "Webhook not found"
+
+msgid "TicketEvents"
+msgstr "Ticket Events"
+
+msgid "ReportEvents"
+msgstr "Report Events"
+
+msgid "BlacklistEvents"
+msgstr "Blacklist Events"
+
+msgid "LogTCreate"
+msgstr "Ticket Create"
+
+msgid "LogTClosed"
+msgstr "Ticket Close"
+
+msgid "LogTDelete"
+msgstr "Ticket Delete"
+
+msgid "LogTReopen"
+msgstr "Ticket Reopen"
+
+msgid "LogRCreate"
+msgstr "Report Create"
+
+msgid "LogRUpdate"
+msgstr "Report Update"
+
+msgid "LogRIgnore"
+msgstr "Report Ignore"
+
+msgid "LogBAdd"
+msgstr "Blacklist Add"
+
+msgid "LogBRemove"
+msgstr "Blacklist Remove"
+
+msgid "LogBClear"
+msgstr "Blacklist Clear"
+
+msgid "ResetLogModule"
+msgstr "Reset Log Module"
+
+msgid "DeleteTicketWH"
+msgstr "Ticket Log-Webhook deletion failed."
+
+msgid "DeleteReportWH"
+msgstr "Report Log-Webhook deletion failed."
+
+msgid "DeleteBlacklistWH"
+msgstr "Blacklist Log-Webhook deletion failed."
+
+msgid "Errors"
+msgstr "Errors"
+
+msgid "ResetAllLogs"
+msgstr "Reset all logging modules"
+
+msgid "UpdateWebhookCreated"
+msgstr "Webhooks created"

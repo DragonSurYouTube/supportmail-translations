@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+
+msgid "PanelControls"
+msgstr "Panel-Steuerung"
+
+msgid "PanelControlsDesc"
+msgstr ""
+"Hier kannst du die Panels konfigurieren und verwalten.\n"
+"### Optionen:\n"
+"1. **Panel-Link angeben:** Klicke auf den Button unten, um einen Link für ein bereits Panel anzugeben.\n"
+"2. **Neues Panel konfigurieren:** Klicke auf den Button unten, um ein neues Panel zu konfigurieren und senden.\n\n"
+"Bitte wähle eine der genannten Optionen aus, um fortzufahren."
+
+msgid "CreateNewPanel"
+msgstr "Neues Panel erstellen"
+
+msgid "EditExistingPanel"
+msgstr "Existierendes Panel bearbeiten"
+
+msgid "anonymAliasExpl"
+msgstr ""
+"Wenn aktiviert, sehen die Nutzer den konfigurierten Alias anstelle des Nutzers, der geantwortet hat.\n\n"
+"> Standard: **Serverteam**"
+
+msgid "FreeVersion"
+msgstr ":warning: Kostenlose Version"
+
+msgid "GoldNeededToConfigure"
+msgstr "Du kannst diese Funktion nutzen, benötigst jedoch **SupportMail Gold**, um sie zu konfigurieren."
+
+msgid "MessageForwardingPreference"
+msgstr "Präferenz für die Nachrichtenweiterleitung"
+
+msgid "onlyMessagesWithMentionWillBeForwarded"
+msgstr "Wenn aktiviert, werden nur Nachrichten, die mit der Erwähnung von <@1082707872565182614> beginnen, an den Nutzer weitergeleitet."
+
+msgid "CurrentConfiguration"
+msgstr "Aktuelle Konfiguration"
+
+msgid "Enable"
+msgstr "Aktivieren"
+
+msgid "Disable"
+msgstr "Deaktivieren"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "NotIgnoredBotsInTickets"
+msgstr "Bots, die in Tickets nicht ignoriert werden"
+
+msgid "SelectBotsDesc"
+msgstr "Wähle Bots aus, die hinzugefügt werden sollen und hebe die Auswahl der Bots auf, die du entfernen möchtest."
+
+msgid "SelectUpTo5"
+msgstr "Wähle bis zu 5 aus"
+
+msgid "NoConfigFoundForThisModule"
+msgstr "No configuration found for this module."
+
+msgid "startConfigurationWithCompsBelow"
+msgstr "Starte die Konfiguration mit den Buttons und Auswahlmenüs unten."
+
+msgid "TicketPings"
+msgstr "Ticket-Pings"
+
+msgid "ReportPings"
+msgstr "Report-Pings"
+
+msgid "editPanelDesc"
+msgstr ""
+"Unten siehst du eine Vorschau des Panel-Embeds, das gesendet werden soll.\n"
+"Mit dem Button unten kannst du es bearbeiten"
+
+msgid "ButtonConfiguration"
+msgstr "Button Konfiguration"
+
+msgid "panelButtonText"
+msgstr "Button Text"
+
+msgid "panelButtonEmoji"
+msgstr "Button Emoji"
+
+msgid "emojiPlh"
+msgstr "Unicode oder Custom Emoji"
+
+msgid "clickToEditPanel"
+msgstr "Ändere Panel-Embed"
+
+msgid "noMarkdown"
+msgstr "Kein Markdown hier!"
+
+msgid "allMarkdown"
+msgstr "Volle Markdown Unterstützung!"
+
+msgid "PanelEmbedBuilder"
+msgstr "Panel-Embed Builder"
+
+msgid "panelTitle"
+msgstr "Embed Titel"
+
+msgid "panelDesc"
+msgstr "Embed Beschreibung"
+
+msgid "embedColor"
+msgstr "Embed Farbe"
+
+msgid "colorPlh"
+msgstr "Format: docs.supportmail.dev/panel"
+
+msgid "editAlias"
+msgstr "Alias ändern"
+
+msgid "UserInputError"
+msgstr "Ungültige Eingabe!"
+
+msgid "InvalidChannelError"
+msgstr "Ungültiger Kanal!"
+
+msgid "InvalidMessageError"
+msgstr "Ungültige Nachricht!"
+
+msgid "panelSendButton"
+msgstr "Panel senden"
+
+msgid "JumpToPanel"
+msgstr "Zum Panel springen"
+
+msgid "panelCreatedTitle"
+msgstr "Panel erstellt"
+
+msgid "clickButtonToSendPanel"
+msgstr ""
+"Klicke auf die Buttons unten, um \n"
+"- das aktuelle Panel zu senden\n"
+"- die aktuelle Konfiguration erneut zu ändern"
+
+msgid "youTimedOut"
+msgstr "Du warst zu langsam!"
+
+msgid "youHad5MinutesToClickTheButton"
+msgstr ""
+"Du hattest 5 Minuten Zeit, um auf den Button zu klicken, aber hast es nicht getan.\n"
+"Ich habe die Änderungen, die du bereits getätigt hast, aus Performance-Gründen gelöscht."
+
+msgid "panelSent"
+msgstr "Panel gesendet"
+
+msgid "panelEdited"
+msgstr "Nachricht bearbeitet"
+
+msgid "editPanel"
+msgstr "Panel bearbeiten"
+
+msgid "linkToPanel"
+msgstr "Nachrichten-Link"
+
+msgid "createNewPanel"
+msgstr "Ein neues Panel erstellen"
+
+msgid "selcetChannelForPanel"
+msgstr "Wähle den Kanal für das neue Panel.\nDu kannst das Panel später konfigurieren."
+
+msgid "Serverteam"
+msgstr "Serverteam"
+
+msgid "CreatePanelButton"
+msgstr "Panel erstellen"
+
+msgid "clickButtonToCreatePanel"
+msgstr ""
+"Du hast einen Kanal ausgewählt. Jetzt kannst du das Panel bearbeiten.\n"
+"Momentan kannst du den Kanal noch wechseln, wenn du willst."
+
+msgid "addChannels"
+msgstr "Kanäle hinzufügen"
+
+msgid "removeChannels"
+msgstr "Kanäle entfernen"
+
+msgid "ReportChannel"
+msgstr "Kanal für Reports"
+
+msgid "ReportChannelDesc"
+msgstr ""
+"Dies steht für den Kanal, in den neue Meldungen gepostet werden.\n"
+"> Aktueller Kanal: {0}"
+
+msgid "ImmuneSettings"
+msgstr "Immunitätseinstellungen"
+
+msgid "ExcludedChannels"
+msgstr "Ausgeschlossene Kanäle"
+
+msgid "IncludedChannels"
+msgstr "Eingeschlossene Kanäle"
+
+msgid "ExInChannels"
+msgstr "Eingeschlossene/Ausgeschlossene Kanäle"
+
+msgid "SelectedChannelsAreExcluded"
+msgstr "Meldungen sind in ausgewählten Kanälen NICHT möglich"
+
+msgid "SelectedChannelsAreIncluded"
+msgstr "Meldungen sind NUR in ausgewählten Kanälen möglich"
+
+msgid "Modroles"
+msgstr "Moderator-Rollen"
+
+msgid "ModrolesDesc"
+msgstr "Nur die ausgewählten Rollen sind in der Lage, die Buttons auf den Reportnachrichten zu benutzen. (sofern nicht deaktiviert)"
+
+msgid "actionButtons"
+msgstr "Buttons an Reports"
+
+msgid "YouSureYouWantToResetConfig"
+msgstr "Bist du sicher, dass du die ausgewählte Konfiguration zurücksetzen willst?"
+
+msgid "premium"
+msgstr "Premium (SupportMail Gold)"
+
+msgid "premiumNA"
+msgstr ":x: Kein aktives Abo gefunden."
+
+msgid "premiumD"
+msgstr "- Bis zum: {until}\n\n_Dein Abo wird automatisch verlängert, es sei denn, du kündigst es._"
+
+msgid "premiumUL"
+msgstr "**Unbegrenzt**"
+
+msgid "TicketConfig"
+msgstr "Ticket Konfiguration"
+
+msgid "ReportConfig"
+msgstr "Report Konfiguration"
+
+msgid "notEnabled"
+msgstr "Nicht aktiviert"
+
+msgid "ticketForum"
+msgstr "Ticket-Forum"
+
+msgid "maskedLinks"
+msgstr "Maskierte Links"
+
+msgid "maskedLinksAreUnmasked"
+msgstr "Maskierte Links werden \"demaskiert\", wenn ein Nutzer einen maskierten Link in seiner Nachricht sendet."
+
+msgid "maskedLinksAreIgnored"
+msgstr "Maskierte Links werden ignoriert, wenn ein Nutzer einen maskierten Link in seiner Nachricht sendet."
+
+msgid "FeatureEnabled"
+msgstr "Feature aktiviert"
+
+msgid "FeatureDisabled"
+msgstr "Feature deaktiviert"
+
+msgid "MessageForwardingPreferenceEnabled"
+msgstr "Nur Nachrichten, die mit der Erwähnung von <@1082707872565182614> beginnen, werden an den Nutzer weitergeleitet. [Mehr erfahren](https://docs.supportmail.dev/)"
+
+msgid "generalConfig"
+msgstr "Allgemeine Konfiguration"
+
+msgid "translationsLeft"
+msgstr "Übersetzungen übrig"
+
+msgid "language"
+msgstr "Sprache"
+
+msgid "FeatureAlreadyDisabled"
+msgstr "Feature bereits deaktiviert"
+
+msgid "FeatureAlreadyEnabled"
+msgstr "Feature bereits aktiviert"
+
+msgid "anonymConfig"
+msgstr "Anonymitätseinstellungen"
+
+msgid "addPings"
+msgstr "Füge Rollen und Nutzer hinzu"
+
+msgid "reomvePings"
+msgstr "Entferne Rollen oder Nutzer"
+
+msgid "ModuleReset"
+msgstr "Module zurückgesetzt"
+
+msgid "AliasLabel"
+msgstr "Neuer Alias | Leer = Zurücksetzen"
+
+msgid "TCreationMessage"
+msgstr "Ticket-Erstellungsnachricht"
+
+msgid "TCreationMessageDesc"
+msgstr ""
+"Die hier konfigurierte Nachricht wird als zusätzliches Embed gesendet, wenn jemand ein Ticket auf dem Server erstellt.\n"
+"Folgende Optionen sind konfigurierbar:\n"
+"- Text (Kompletter Markdown unterstützt)\n"
+"- Farbe des Embeds ([Wie eine Farbe angegeben werden kann](https://docs.supportmail.dev/f/panel))\n"
+"- Bild-Link ([Wie der Bild-Link aussehen muss](https://docs.supportmail.dev/f/ticket-creation-message))\n\n"
+"Wenn kein Bildlink angegeben ist, wird das Bild nicht angezeigt. Es gibt keine Fehlermeldung."
+
+msgid "TicketCreated"
+msgstr "Ticket erstellt"
+
+msgid "ConfigureCreationMessage"
+msgstr "Nachricht konfigurieren"
+
+msgid "ImageLink"
+msgstr "Bild-Link | Leer = Löschen"
+
+msgid "ImageLinkPh"
+msgstr "Format: docs.supportmail.dev/f/"
+
+msgid "EditImage"
+msgstr "Bild bearbeiten"
+
+msgid "Logging"
+msgstr "Logging"
+
+msgid "LoggingInfo"
+msgstr ""
+"Hier können Sie das Logging für verschiedene Events konfigurieren.\n"
+"> Eine Liste der logbaren Events findest du [hier](https://docs.supportmail.dev/f/logging#loggable-events).\n"
+"> Erfahre [hier](https://docs.supportmail.dev/commands/config/logging) wie das funktioniert."
+
+msgid "MissingWebhookPermissions"
+msgstr "Mir fehlen Berechtigungen!\n Ich benötige die Berechtigung zum `Erstellen von Webhooks` im ausgewählten Kanal."
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "WebhookNotFound"
+msgstr "Webhook nicht gefunden"
+
+msgid "TicketEvents"
+msgstr "Ticket Events"
+
+msgid "ReportEvents"
+msgstr "Report Events"
+
+msgid "BlacklistEvents"
+msgstr "Blacklist Events"
+
+msgid "LogTCreate"
+msgstr "Ticket Erstellt"
+
+msgid "LogTClosed"
+msgstr "Ticket Geschlossen"
+
+msgid "LogTDelete"
+msgstr "Ticket Gelöscht"
+
+msgid "LogTReopen"
+msgstr "Ticket Wieder Geöffnet"
+
+msgid "LogRCreate"
+msgstr "Report Erstellt"
+
+msgid "LogRUpdate"
+msgstr "Report Aktualisiert"
+
+msgid "LogRIgnore"
+msgstr "Report Ignoriert"
+
+msgid "LogTAdd"
+msgstr "Blacklist Nutzer Hinzugefügt"
+
+msgid "LogTRemove"
+msgstr "Blacklist Nutzer Entfernt"
+
+msgid "LogTClear"
+msgstr "Blacklist Gelöscht"
+
+msgid "ResetLogModule"
+msgstr "Log Modul zurücksetzen"
+
+msgid "DeleteTicketWH"
+msgstr "Löschen der Ticket-Log Webhook fehlgeschlagen."
+
+msgid "DeleteReportWH"
+msgstr "Löschen der Report-Log Webhook fehlgeschlagen."
+
+msgid "DeleteBlacklistWH"
+msgstr "Löschen der Blacklist-Log Webhook fehlgeschlagen."
+
+msgid "Errors"
+msgstr "Fehler"
+
+msgid "ResetAllLogs"
+msgstr "Alle Logging-Module zurücksetzen"
+
+msgid "UpdateWebhookCreated"
+msgstr "Webhooks erstellt"

@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+
+msgid "AnErrorOccured"
+msgstr "Ein Fehler ist aufgetreten!"
+
+msgid "noConfiguredGuildFound"
+msgstr "Keinen konfigurierten, gemeinsamen Server gefunden!"
+
+msgid "noMutualGuildConfigured"
+msgstr "Auf keinem unserer gemeinsam genutzten Server ist die Ticketfunktion aktiviert."
+
+msgid "SelectAServerTitle"
+msgstr "Wähle einen Server aus"
+
+msgid "SelectAServerDesc"
+msgstr "Bitte wähle den Server aus, an den du deine Nachricht senden möchtest.\nBenutze das Auswahlmenü unten."
+
+msgid "createNewTicket"
+msgstr "Ein neues Ticket erstellen"
+
+msgid "continueInTicket"
+msgstr "In einem offenen Ticket fortfahren"
+
+msgid "TicketDetails"
+msgstr "Ticket ID: {0}"
+
+msgid "MessageForwardedToGuild"
+msgstr "Nachricht an den Server weitergeleitet"
+
+msgid "CreateNewTicketQuestion"
+msgstr "Ein neues Ticket erstellen?"
+
+msgid "ServerInfo"
+msgstr ""
+"- **Server-Name:** {0.name}\n"
+"- **Server-ID:** `{0.id}`"
+
+msgid "UserMessageText"
+msgstr "### {0.mention} schrieb:"
+
+msgid "Attachments"
+msgstr "Anhänge"
+
+msgid "OnlyImagesAndVideosAreSupported"
+msgstr "Es werden nur Bilder und Videos unterstützt!"
+
+msgid "AttachmentsSkipped"
+msgstr "Übersprungene Anhänge: {0}"
+
+msgid "YouGotAMessage"
+msgstr "Du hast eine Nachricht erhalten"
+
+msgid "UnsupportedAttachments"
+msgstr "Nicht unterstützte Anhänge"
+
+msgid "HandleUnknownAttachmentsWithCare"
+msgstr "Vorsicht bei unbekannten Anhängen - SupportMail ist nicht für schädliche Dateien verantwortlich!"
+
+msgid "TicketChannelLocked"
+msgstr "Der Ticket-Kanal ist gesperrt."
+
+msgid "ContactAServerAdmin"
+msgstr "Bitte kontaktiere einen Server-Administrator!"
+
+msgid "TicketChannelDoesntExist"
+msgstr "Der entsprechende Ticket-Kanal existiert nicht."
+
+msgid "createANewTicketQuestion"
+msgstr "Erstelle ein neues Ticket mit den Komponenten unten"
+
+msgid "TicketChannelCreationFailed"
+msgstr "Erstellung des Ticket-Kanals fehlgeschlagen!"
+
+msgid "UserinfoTitle"
+msgstr "Nutzerinfo"
+
+msgid "Userinfo"
+msgstr ""
+"- Nutzer: [@{0.username}](https://discord.com/users/{0.id}/) | {0.mention}\n"
+"- Nutzer ID: `{0.id}`\n"
+"- Discord beigetreten: {1}\n"
+"- Server beigetreten: {2}"
+
+msgid "Roles"
+msgstr "Nutzerrollen"
+
+msgid "ticketPostTitle"
+msgstr "Ticket {count} | #{ticket_id}"
+
+msgid "TicketAlreadyClosed"
+msgstr "Ticket bereits geschlossen."
+
+msgid "YouAreBlacklisted"
+msgstr "Du darfst auf diesem Server für Tickets gesperrt."
+
+msgid "YouCanOnlyInteractInOpenTickets"
+msgstr "Du kannst keine neuen Tickets erstellen, sondern nur mit dem aktuell geöffneten Ticket interagieren."
+
+msgid "YouAreBlacklistedOnAllServers"
+msgstr "Du bist auf allen Servern, die wir teilen, für Tickets gesperrt!"
+
+msgid "TicketCreated"
+msgstr "Ticket erstellt"
+
+msgid "ServerNotFound"
+msgstr "Server nicht gefunden!"
+
+msgid "ImNotInTheServerAnymore"
+msgstr "Es scheint, als wäre ich nicht mehr auf dem Server."
+
+msgid "YourMessageWasDeleted"
+msgstr "Deine Nachricht wurde gelöscht!"
+
+msgid "DontDeleteYourMessage"
+msgstr "Lösche deine Nachricht nicht!"
+
+msgid "ForwardToLastTicket"
+msgstr "Möchtest du mit deinem offenen Ticket fortfahren?"
+
+msgid "ForwardInfo"
+msgstr ""
+"- **Servername:** {0.name}\n"
+"- **Server ID:** `{0.id}`\n"
+"- **Ticket ID:** `{1}`\n\n"
+"Wähle unten eine Option aus."
+
+msgid "DangerousAttachments"
+msgstr "Potenziell gefährliche Anhänge"
+
+msgid "TicketChannelNotFound"
+msgstr "Ticket-Kanal nicht gefunden!"
+
+msgid "SendingFailed"
+msgstr "Sending a message failed."
+
+msgid "EnableYourDMs"
+msgstr "Bitte gebe deine DMs frei."
+
+msgid "CreateTicket"
+msgstr "Erstelle ein Ticket"
+
+msgid "CreateTicketDesc"
+msgstr ""
+"Bitte sende deine Anfrage. Es wird automatisch ein Ticket mit der Nachricht erstellt.\n\n"
+"Wenn du diesen Vorgang abbrechen möchtest, drücke den :x: Button unten."
+
+msgid "YouHave5Mins"
+msgstr "Du hast 5 Minuten Zeit, um deine Anfrage zu senden."
+
+msgid "UserNotFound"
+msgstr "Nutzer nicht mehr auf dem Server."
+
+msgid "AutomaticClosure"
+msgstr "Wegen Inaktivität automatisch geschlossen."
+
+msgid "CreationAlreadyInProgress"
+msgstr "Du hast bereits einen laufenden Ticket-Erstellungsprozess.\nBitte gehe zu unserem DM-Kanal und erstelle ein Ticket."
+
+msgid "YouAlreadyHaveATicket"
+msgstr "Du hast bereits ein Ticket offen auf diesem Server.\nBitte beende dieses Ticket, bevor du ein neues erstellst."
+
+msgid "JumpToDM"
+msgstr "Zu DM springen"

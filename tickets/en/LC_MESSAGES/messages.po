@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "AnErrorOccured"
+msgstr "An error occured!"
+
+msgid "SomethingWentWrong"
+msgstr "Something went wrong"
+
+msgid "SendTheErrorCodeToTheSupport"
+msgstr "Please send the following error code to the [support](https://discord.gg/rFkVQx3vpj)!"
+
+msgid "noConfiguredGuildFound"
+msgstr "No configured guild found!"
+
+msgid "noMutualGuildConfigured"
+msgstr "None of our shared servers have the ticket feature activated."
+
+msgid "SelectAServerTitle"
+msgstr "Select a Server"
+
+msgid "SelectAServerDesc"
+msgstr "Please select the server you want to send your message to.\nUse the select menu below."
+
+msgid "SelectAServerPh"
+msgstr "Select a server"
+
+msgid "createNewTicket"
+msgstr "Create a new ticket"
+
+msgid "continueInTicket"
+msgstr "Continue in an open ticket"
+
+msgid "Confirm"
+msgstr "Confirm"
+
+msgid "ChangeServer"
+msgstr "Change server"
+
+msgid "CancelRequest"
+msgstr "Cancel"
+
+msgid "TicketDetails"
+msgstr "Ticket ID: {0}"
+
+msgid "MessageForwardedToGuild"
+msgstr "Message forwarded to guild"
+
+msgid "CreateNewTicketQuestion"
+msgstr "Create a new ticket?"
+
+msgid "ServerInfo"
+msgstr ""
+"- **Guild Name:** {0.name}\n"
+"- **Guild ID:** `{0.id}`"
+
+msgid "UserMessageText"
+msgstr "### {0.mention} said:"
+
+msgid "Attachments"
+msgstr "Attachments"
+
+msgid "OnlyForbiddenAttachmentsWereSent"
+msgstr "Only forbidden attachments were sent."
+
+msgid "OnlyImagesAndVideosAreSupported"
+msgstr "Only Images and Videos are supported!"
+
+msgid "AttachmentsSkipped"
+msgstr "Attachments skipped: {0}"
+
+msgid "YouGotAMessage"
+msgstr "You got a message"
+
+msgid "UnsupportedAttachments"
+msgstr "Unsupported Attachments"
+
+msgid "HandleUnknownAttachmentsWithCare"
+msgstr "Handle unknown Attachments with care - SupportMail is not responsible for malicious files!"
+
+msgid "TicketChannelLocked"
+msgstr "Ticket channel is locked."
+
+msgid "ContactAServerAdmin"
+msgstr "Please contact a server admin!"
+
+msgid "TicketChannelDoesntExist"
+msgstr "The corresponding ticket-channel doesn't exist."
+
+msgid "createANewTicketQuestion"
+msgstr "Create a new ticket the components below"
+
+msgid "TicketChannelCreationFailed"
+msgstr "Ticket-channel creation failed!"
+
+msgid "UserinfoTitle"
+msgstr "Userinfo"
+
+msgid "Userinfo"
+msgstr ""
+"- User: [@{0.username}](https://discord.com/users/{0.id}/) | {0.mention}\n"
+"- User ID: `{0.id}`\n"
+"- Joined Discord: {1}\n"
+"- Joined Server: {2}"
+
+msgid "Roles"
+msgstr "Userroles"
+
+msgid "ticketPostTitle"
+msgstr "Ticket {count} | #{ticket_id}"
+
+msgid "TicketAlreadyClosed"
+msgstr "Ticket already closed."
+
+msgid "YouAreBlacklisted"
+msgstr "You are blacklisted in this server!"
+
+msgid "YouCanOnlyInteractInOpenTickets"
+msgstr "You cannot create new tickets, only interact in the currently open ticket."
+
+msgid "YouAreBlacklistedOnAllServers"
+msgstr "You are blacklisted on all servers that we share!"
+
+msgid "TicketCreated"
+msgstr "Ticket Created"
+
+msgid "ServerNotFound"
+msgstr "Server not Found!"
+
+msgid "ImNotInTheServerAnymore"
+msgstr "Seems like I am not in the Server anymore."
+
+msgid "YourMessageWasDeleted"
+msgstr "Your message was deleted!"
+
+msgid "DontDeleteYourMessage"
+msgstr "Don't delete your message!"
+
+msgid "ForwardToLastTicket"
+msgstr "Do you want to continue in your open ticket?"
+
+msgid "ForwardInfo"
+msgstr ""
+"- **Guild name:** {0.name}\n"
+"- **Guild ID:** `{0.id}`\n"
+"- **Ticket ID:** `{1}`\n\n"
+"Select an option below."
+
+msgid "DangerousAttachments"
+msgstr "Potentially dangerous attachments"
+
+msgid "TicketChannelNotFound"
+msgstr "Ticket channel not found!"
+
+msgid "SendingFailed"
+msgstr "Sending a message failed."
+
+msgid "EnableYourDMs"
+msgstr "Please enable your DMs."
+
+msgid "CreateTicket"
+msgstr "Create a ticket"
+
+msgid "CreateTicketDesc"
+msgstr ""
+"Please send your request. A ticket with your message will be created automatically.\n\n"
+"If you want to cancel this process, press the :x: button below."
+
+msgid "YouHave5Mins"
+msgstr "You have 5 minutes to send your enquiry."
+
+msgid "UserNotFound"
+msgstr "User not in the server anymore."
+
+msgid "AutomaticClosure"
+msgstr "Closed automatically due to inactivity."
+
+msgid "CreationAlreadyInProgress"
+msgstr "You already have an ongoing ticket-creation process.\nPlease go over to our DM channel and create a ticket."
+
+msgid "YouAlreadyHaveATicket"
+msgstr "You already ahave an open ticket in this server.\nPlease finish this ticket before you create a new one."
+
+msgid "JumpToDM"
+msgstr "Jump to DM"

@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+
+msgid "TryAgainIn"
+msgstr "Versuche es erneut {0}"
+
+msgid "InvalidInput"
+msgstr "Ungültige Eingabe"
+
+msgid "UserNotFound"
+msgstr "Der Nutzer ist nicht mehr im Server."
+
+msgid "ReportingNotPossible"
+msgstr "Die Meldung eines Nutzers ist nur möglich, wenn der Nutzer ein Mitglied des Servers ist."
+
+msgid "YouTimedOut"
+msgstr "Du warst du langsam!"
+
+msgid "YouHad10Minutes"
+msgstr "Du hattest 10 Minuten Zeit, die Meldung einzureichen."
+
+msgid "ReportDetailsHadBeenSentToYourDMs"
+msgstr "Die Details des Reports wurden an dich gesendet."
+
+msgid "ReportDetailsCouldntBeSentToYourDMs"
+msgstr "Die Details des Reports konnten nicht an dich gesendet werden."
+
+msgid "ReportCreated"
+msgstr "Report erstellt!"
+
+msgid "TakeAction"
+msgstr "Maßnahmen ergreifen"
+
+msgid "Timeout"
+msgstr "Nutzer timeouten"
+
+msgid "Kick"
+msgstr "Nutzer kicken"
+
+msgid "Ban"
+msgstr "Nutzer bannen"
+
+msgid "DeleteMessage"
+msgstr "Gemeldete Nachricht löschen"
+
+msgid "Ignore"
+msgstr "Meldung ignorieren"
+
+msgid "Userinfo"
+msgstr "Nutzerinfo"
+
+msgid "ReportedUser"
+msgstr "Gemeldeter Nutzer"
+
+msgid "Reporter"
+msgstr "Melder"
+
+msgid "UserDetails"
+msgstr ""
+"- **Nutzer:** <@{userid}>\n"
+"- **ID:** `{userid}`\n"
+"- **Account erstellt:** {usercreated}\n"
+"- **Serverbeitritt:** {userjoined}"
+
+msgid "ReportedMessage"
+msgstr "Gemeldete Nachricht"
+
+msgid "RepliedTo"
+msgstr "Antwort an"
+
+msgid "Reason"
+msgstr "Grund"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "UserNoMember"
+msgstr "Nutzer ist derzeit nicht Mitglied des Servers"
+
+msgid "Attachments"
+msgstr "Anhänge"
+
+msgid "LastMessageMetadataTitle"
+msgstr "Metadaten der Nachricht"
+
+msgid "LastMessageMetadataDesc"
+msgstr ""
+"- **ID:** `{id}`\n"
+"- **Gesendet:** {messagesent}\n"
+"- **Kanal:** {channel}"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "YouCantReportYourself"
+msgstr "Du kannst dich nicht selbst melden!"
+
+msgid "OnCooldown"
+msgstr "Wähle einen anderen Nutzer"
+
+msgid "ReportUser"
+msgstr "Nutzer melden"
+
+msgid "ReportMessage"
+msgstr "Nachricht melden"
+
+msgid "reasonPh"
+msgstr "Spam, Betrug, NSFW, Belästigung/Beleidigung, etc."
+
+msgid "commentPh"
+msgstr "Zusätzliche Screenshots oder zusätzliche Informationen, welche wichtig sein könnte."
+
+msgid "Blacklisted"
+msgstr "Du bist nicht berechtigt, Reports zu erstellen."
+
+msgid "UserIsImmune"
+msgstr "Nutzer ist immun gegen Reports!"
+
+msgid "SomethingWentWrong"
+msgstr "Etwas ist schief gelaufen"
+
+msgid "NoPermissions"
+msgstr "Mir fehlen wichtige Berechtigungen im Meldekanal."
+
+msgid "GuildNotConfigured"
+msgstr "Server nicht eingerichtet"
+
+msgid "ReportingNotEnabledInThisChannel"
+msgstr "In diesem Kanal können keine Reports erstellt werden."
+
+msgid "SelectUserToViewStats"
+msgstr "Wähle einen Nutzer aus, um seine Statistiken zu sehen."
+
+msgid "ReportNotFound"
+msgstr "Report nicht gefunden."
+
+msgid "ReceivedReports"
+msgstr "Erhaltene Reports"
+
+msgid "SubmittedReports"
+msgstr "Eingereichte Reports"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "statusUpdate_ignore"
+msgstr "{0} | Ignoriert von <@{1}>"
+
+msgid "statusUpdate_timeout"
+msgstr "{0} | Nutzer bis {1} in den Timeout versetzt von <@{2}>"
+
+msgid "statusUpdate_kick"
+msgstr "{0} | Nutezr gekickt von <@{1}>"
+
+msgid "statusUpdate_banned"
+msgstr "{0} | Nutezr gebannt von <@{1}>"
+
+msgid "statusUpdate_deleted"
+msgstr "{0} | Gemeldete Nachricht von <@{1}> gelöscht"
+
+msgid "ReportAlreadyIgnored"
+msgstr "Meldung bereits ignoriert"
+
+msgid "TryAgainInOrWaitUntilEditingFinished"
+msgstr "Versuche es in 5 Minuten noch einmal oder warte, bis der aktuelle Bearbeiter diese Meldung fertig bearbeitet hat."
+
+msgid "editingUser"
+msgstr "Bearbeiter: <@{0}>"
+
+msgid "ReportIsCurrentlyBeingEdited"
+msgstr "Meldung wird derzeit bearbeitet"
+
+msgid "DeletingMessageFailed"
+msgstr "Löschen der Nachricht fehlgeschlagen"
+
+msgid "TimeoutUser"
+msgstr "Nutzer in den Timeout"
+
+msgid "DeleteMessagesLabel"
+msgstr "Nachrichten löschen"
+
+msgid "TimestringPh"
+msgstr "Zeit-Format:\ndocs.supportmail.dev/e/time-strings"
+
+msgid "KickingFailed"
+msgstr "Kicken des Nutzers fehlgeschlagen"
+
+msgid "UpdateSuccessful"
+msgstr "Update erfolgreich"
+
+msgid "ReasonPh"
+msgstr "Der Grund für diese Aktion (wird nur angezeigt, nicht weitergegeben)"
