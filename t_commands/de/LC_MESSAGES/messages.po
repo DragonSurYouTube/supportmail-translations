@@ -4,5 +4,139 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de\n"
 
-# msgid ""
-# msgstr ""
+msgid "TicketID"
+msgstr "**Ticket ID:** `{0}`"
+
+msgid "TicketClosed"
+msgstr "Ticket geschlossen"
+
+msgid "UserNotifiedQ"
+msgstr "Nutzer benachrichtigt?"
+
+msgid "Error"
+msgstr "Fehler: "
+
+msgid "MissingPermissions"
+msgstr "Mir fehlen die Berechtigungen!"
+
+msgid "noTicketErr"
+msgstr "Dies ist kein Ticket."
+
+msgid "runInATicketPost"
+msgstr "Führe diesen Befehl erneut aus, aber in einem Ticket."
+
+msgid "comment"
+msgstr "Kommentar"
+
+msgid "InvalidInput"
+msgstr "Ungültige Eingabe"
+
+msgid "CloseRequest"
+msgstr "Schließanfrage"
+
+msgid "CloseTheTicketOrDeny"
+msgstr "Close the ticket or deny the request."
+
+msgid "UserCanCloseTheTicketOrDeny"
+msgstr "Der Nutzer kann nun das Ticket schließen oder die Anfrage ablehnen."
+
+msgid "AutoClose"
+msgstr "Automatische Schließung"
+
+msgid "UserNotFound"
+msgstr "Nutzer nicht gefunden"
+
+msgid "MessagingUserFailed"
+msgstr "Die Benachrichtigung des Nutzers ist fehlgeschlagen. Vielleicht ist er nicht mehr auf dem Server?"
+
+msgid "closeTicket"
+msgstr "Ticket schließen"
+
+msgid "denyCloseRequest"
+msgstr "Ablehnen"
+
+msgid "AutomaticClosure"
+msgstr "Wegen Inaktivität automatisch geschlossen."
+
+msgid "UserLeftGuild"
+msgstr "Nutzer hat den Server verlassen"
+
+msgid "ClosingTicket"
+msgstr "Ticket wird geschlossen..."
+
+msgid "CloseRequestDeleted"
+msgstr "Schließanfrage gelöscht"
+
+msgid "CloseRequestAutoDeleted"
+msgstr "Schließanfrage durch Inaktivität automatisch gelöscht."
+
+msgid "JumpToOriginalInquiry"
+msgstr "Zum Anfang springen"
+
+msgid "TicketReopened"
+msgstr "Ticket wieder geöffnet"
+
+msgid "YourTicketGotReopened"
+msgstr "Dein Ticket wurde wiedereröffnet!"
+
+msgid "TicketDetailsDM"
+msgstr ""
+"- **Ticket ID:** `{ticket_id}`\n"
+"- **Erstellt:** <t:{open_ts}> (<t:{open_ts}:R>)"
+
+msgid "TicketIsStillOpen"
+msgstr "Dieses Ticket ist noch offen!"
+
+msgid "TicketNotFound"
+msgstr "Ticket nicht gefunden. Ist deine Eingabe korrekt?"
+
+msgid "JumpToTicket"
+msgstr "[Springe zum Ticket]({0})"
+
+msgid "thisTicketIsAlreadyClosed"
+msgstr "Dieses Ticket ist bereits geschlossen."
+
+msgid "EnterValidNumber"
+msgstr "Format: docs.supportmail.dev/e/time-strings"
+
+msgid "cR_Accepted"
+msgstr "Anfrage akzeptiert"
+
+msgid "cR_Denied"
+msgstr "Anfrage abgelehnt"
+
+msgid "NoOpenCR"
+msgstr "Keine offene Schließanfrage gefunden!"
+
+msgid "SendMessage"
+msgstr "Nachricht senden"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Member"
+msgstr "Nutzer"
+
+msgid "Markdown"
+msgstr "Voller Markdown wird unterstützt!"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "InvalidUser"
+msgstr "Ungültiger Nutzer"
+
+msgid "YouGotAMessage"
+msgstr "Du hast eine Nachricht erhalten!"
+
+msgid "NotTicketRelated"
+msgstr "Diese Nachricht bezieht sich NICHT auf ein Ticket!"
+
+msgid "DMsDisabled"
+msgstr "Nutzer hat seine DMs deaktiviert!"
+
+msgid "SendingFailed"
+msgstr "Senden fehlgeschlagen"
+
+msgid "MessageSent"
+msgstr "Nachricht gesendet"

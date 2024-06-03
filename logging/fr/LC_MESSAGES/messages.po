@@ -1,8 +1,88 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-# msgid ""
-# msgstr ""
+msgid "TDetails"
+msgstr ""
+"- **Ticket ID:** `{ticket_id}` | `#{index}`\n"
+"- **Author** : <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`\n"
+"- **Ticket-Post:** https://discord.com/channels/{guild.id}/{channel.id}"
+
+msgid "TClose_Comment"
+msgstr "- **Comment:** {0}"
+
+msgid "LogTdelete"
+msgstr "Ticket supprimé"
+
+msgid "LogTcreated"
+msgstr "Création d'un ticket"
+
+msgid "LogTreopen"
+msgstr "Réouverture du ticket"
+
+msgid "LogTclosed"
+msgstr "Ticket fermé"
+
+msgid "LogRcreated"
+msgstr "Signalement créé"
+
+msgid "LogRupdate"
+msgstr "Mise à jour du rapport"
+
+msgid "LogRignore"
+msgstr "Signalement de l'ignorance"
+
+msgid "RDetails"
+msgstr ""
+"- **Identification du signalement:** `#{report_id}`\n"
+"- **Author** : <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`- **Détails:** https://discord.com/channels/{guild.id}/{channel.id}/{message_id}"
+
+msgid "RActionType"
+msgstr "Action"
+
+msgid "RUpdate_ignore"
+msgstr ""
+"> **Type:** `Report ignored` (rapport ignoré)\n"
+"> **Reason:** {reason}"
+
+msgid "RUpdate_timeout"
+msgstr ""
+"> **Type:** `User timeouted`\n"
+"> **Until:** <t:{expire_ts}> ( <t:{expire_ts}:R> )\n"
+"> **Reason:** {reason}"
+
+msgid "RUpdate_kick"
+msgstr "> **Action:** `Utilisateur expulsé`"
+
+msgid "RUpdate_ban"
+msgstr ""
+"> **Action:** `Utilisateur banni`\n"
+"> **Supprimer les messages jusqu'à:** <t:{timestamp}> ( <t:{timestamp}:R> )\n"
+"> **Raison:** {raison}"
+
+msgid "RUpdate_delete_message"
+msgstr "> **Action:** `Message signalé supprimé`"
+
+msgid "RReason"
+msgstr "- **Raison:** {raison}"
+
+msgid "BDetails"
+msgstr ""
+"- **Action:** `{action}`\n"
+"- **Liste noire:** `{liste}`\n"
+"- **Author** : <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`"
+
+msgid "BAction_add"
+msgstr "Utilisateurs/rôles ajoutés"
+
+msgid "BAction_remove"
+msgstr "Utilisateurs/rôles supprimés"
+
+msgid "BAction_clear"
+msgstr "Liste noire effacée"
+
+msgid "BUsers"
+msgstr "- **Utilisateurs:** {0}"
+
+msgid "BRoles"
+msgstr "- **Rôles:** {0}"

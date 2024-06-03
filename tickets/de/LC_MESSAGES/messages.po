@@ -165,3 +165,6 @@ msgstr "Du hast bereits ein Ticket offen auf diesem Server.\nBitte beende dieses
 
 msgid "JumpToDM"
 msgstr "Zu DM springen"
+
+msgid "TicketingNotEnabled"
+msgstr "Tickets sind auf diesem Server nicht aktiviert."

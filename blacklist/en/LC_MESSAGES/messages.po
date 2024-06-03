@@ -33,17 +33,23 @@ msgstr "The ticket blacklist has been successfully reset."
 msgid "reportsReset"
 msgstr "The report blacklist has been successfully reset."
 
-# msgid ""
-# msgstr ""
+msgid "blacklistEmpty"
+msgstr "Blacklist empty"
 
-# msgid ""
-# msgstr ""
+msgid "startConfigurationWithCompsBelow"
+msgstr "Add users and roles by using the components below."
 
-# msgid ""
-# msgstr ""
+msgid "unknown"
+msgstr "Unknown"
 
-# msgid ""
-# msgstr ""
+msgid "SelectAUserToCheck"
+msgstr "Select a user to check"
+
+msgid "changeBlacklistPage"
+msgstr "Change Blacklist Page"
+
+msgid "page"
+msgstr "Page"
 
 # msgid ""
 # msgstr ""

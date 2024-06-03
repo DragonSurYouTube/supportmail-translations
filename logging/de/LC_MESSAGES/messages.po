@@ -4,11 +4,88 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de\n"
 
-msgid ""
+msgid "TDetails"
 msgstr ""
+"- **Ticket ID:** `{ticket_id}` | `#{index}`\n"
+"- **Autor**: <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`\n"
+"- **Ticket-Post:** https://discord.com/channels/{guild.id}/{channel.id}"
 
-msgid ""
-msgstr ""
+msgid "TClose_Comment"
+msgstr "- **Kommentar:** {0}"
 
-msgid ""
+msgid "LogTdelete"
+msgstr "Ticket gelöscht"
+
+msgid "LogTcreated"
+msgstr "Ticket erstellt"
+
+msgid "LogTreopen"
+msgstr "Ticket wiedergeöffnet"
+
+msgid "LogTclosed"
+msgstr "Ticket geschlossen"
+
+msgid "LogRcreated"
+msgstr "Report erstellt"
+
+msgid "LogRupdate"
+msgstr "Report aktualisiert"
+
+msgid "LogRignore"
+msgstr "Report ignoriert"
+
+msgid "RDetails"
 msgstr ""
+"- **Report ID:** `#{report_id}`\n"
+"- **Autor**: <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`"
+"- **Details:** https://discord.com/channels/{guild.id}/{channel.id}/{message_id}"
+
+msgid "RActionType"
+msgstr "Aktion"
+
+msgid "RUpdate_ignore"
+msgstr ""
+"> **Typ:** `Report ignoriert`\n"
+"> **Grund:** {reason}"
+
+msgid "RUpdate_timeout"
+msgstr ""
+"> **Typ:** `Nutzer in den Timeout versetzt`\n"
+"> **Bis:** <t:{expire_ts}> ( <t:{expire_ts}:R> )\n"
+"> **Grund:** {reason}"
+
+msgid "RUpdate_kick"
+msgstr "> **Aktion:** `Nutzer gekickt`"
+
+msgid "RUpdate_ban"
+msgstr ""
+"> **Aktion:** `Nutzer gebannt`\n"
+"> **Nachrichtenverlauf gelöscht:** <t:{timestamp}> ( <t:{timestamp}:R> )\n"
+"> **Grund:** {reason}"
+
+msgid "RUpdate_delete_message"
+msgstr "> **Aktion:** `Gemeldete Nachricht gelöscht`"
+
+msgid "RReason"
+msgstr "- **Grund:** {reason}"
+
+msgid "BDetails"
+msgstr ""
+"- **Aktion:** `{action}`\n"
+"- **Blacklist:** `{liste}`\n"
+"- **Autor**: <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`"
+
+msgid "BAction_add"
+msgstr "Nutzer/Rollen hinzugefügt"
+
+msgid "BAction_remove"
+msgstr "Nutzer/Rollen entfernt"
+
+msgid "BAction_clear"
+msgstr "Blacklist geleert"
+
+msgid "BUsers"
+msgstr "- **Nutzer:** {0}"
+
+msgid "BRoles"
+msgstr "- **Rollen:** {0}"

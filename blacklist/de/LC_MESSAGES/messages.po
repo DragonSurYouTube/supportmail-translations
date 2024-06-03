@@ -33,17 +33,23 @@ msgstr "Die Ticket-Blacklist wurde erfolgreich zurückgesetzt."
 msgid "reportsReset"
 msgstr "Die Report-Blacklist wurde erfolgreich zurückgesetzt."
 
-# msgid ""
-# msgstr ""
+msgid "blacklistEmpty"
+msgstr "Blacklist leer"
 
-# msgid ""
-# msgstr ""
+msgid "startConfigurationWithCompsBelow"
+msgstr "Füge Nutzer und Rollen mit den Komponenten unten hinzu."
 
-# msgid ""
-# msgstr ""
+msgid "unknown"
+msgstr "Unbekannt"
 
-# msgid ""
-# msgstr ""
+msgid "SelectAUserToCheck"
+msgstr "Wähle einen Nutzer zum überprüfen"
+
+msgid "changeBlacklistPage"
+msgstr "Seite ändern"
+
+msgid "page"
+msgstr "Seite"
 
 # msgid ""
 # msgstr ""

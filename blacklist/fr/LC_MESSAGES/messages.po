@@ -1,8 +1,54 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-# msgid ""
-# msgstr ""
+msgid "RoleAddedBy"
+msgstr ""
+">>> <@&{id}> ajouté par\n"
+"{adder}"
+
+msgid "UserAddedBy"
+msgstr ""
+">>> <@{id}> ajouté par\n"
+"{adder}"
+
+msgid "ticketBlacklist"
+msgstr "Liste noire des tickets"
+
+msgid "reportBlacklist"
+msgstr "Signalement d'une liste noire"
+
+msgid "changePage"
+msgstr "Modifier la page"
+
+msgid "invalidPageNumber"
+msgstr "Numéro de page non valide !"
+
+msgid "YouSureYouWantToResetBlacklist"
+msgstr "Êtes-vous sûr de vouloir réinitialiser la liste noire sélectionnée ?"
+
+msgid "ticketsReset"
+msgstr "La liste noire des tickets a été réinitialisée avec succès."
+
+msgid "reportsReset"
+msgstr "La liste noire des signalements a été réinitialisée avec succès."
+
+msgid "blacklistEmpty"
+msgstr "Liste noire vide"
+
+msgid "startConfigurationWithCompsBelow"
+msgstr ""
+"Ajoutez des utilisateurs et des rôles en utilisant les composants ci-"
+"dessous."
+
+msgid "unknown"
+msgstr "Inconnu"
+
+msgid "SelectAUserToCheck"
+msgstr "Sélectionner un utilisateur à contrôler"
+
+msgid "changeBlacklistPage"
+msgstr "Modifier la page de la liste noire"
+
+msgid "page"
+msgstr "Page"

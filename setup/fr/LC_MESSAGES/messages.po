@@ -1,8 +1,51 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-# msgid ""
-# msgstr ""
+msgid "tryAgainIn"
+msgstr "Réessayer {heure}"
+
+msgid "youAreStillOnCooldown"
+msgstr "Vous êtes encore en phase de refroidissement !"
+
+msgid "selectModteam"
+msgstr "Sélectionner l'équipe de modération"
+
+msgid "selectSupportteam"
+msgstr "Sélectionner l'équipe d'assistance"
+
+msgid "setupFailed"
+msgstr "L'installation a échoué !"
+
+msgid "couldNotCreateCategory"
+msgstr "Impossible de créer la catégorie."
+
+msgid "couldNotCreateForum"
+msgstr "Impossible de créer le forum."
+
+msgid "couldNotCreateChannel"
+msgstr "Impossible de créer le canal."
+
+msgid "checkMyPermissions"
+msgstr "Vous devez m'informer de vos droits sur le serveur."
+
+msgid "Tickets"
+msgstr "Tickets"
+
+msgid "Reports"
+msgstr "Signalement"
+
+msgid "Success"
+msgstr "Succès !"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Closed"
+msgstr "Fermé"
+
+msgid "UserResponded"
+msgstr "L'utilisateur a répondu"
+
+msgid "WaitingForResponse"
+msgstr "En attente de réponse"

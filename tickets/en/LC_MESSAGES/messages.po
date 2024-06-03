@@ -186,3 +186,9 @@ msgstr "You already ahave an open ticket in this server.\nPlease finish this tic
 
 msgid "JumpToDM"
 msgstr "Jump to DM"
+
+msgid "TicketingNotEnabled"
+msgstr "Ticketing not enabled in this server."
+
+msgid "thisTicketIsClosed"
+msgstr "### This Ticket is already closed!"

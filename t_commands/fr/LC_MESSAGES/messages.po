@@ -1,8 +1,144 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-# msgid ""
-# msgstr ""
+msgid "TicketID"
+msgstr "**Ticket ID:** `{0}`."
+
+msgid "TicketClosed"
+msgstr "Ticket fermé"
+
+msgid "UserNotifiedQ"
+msgstr "L'utilisateur a-t-il été averti ?"
+
+msgid "Error"
+msgstr "Erreur :"
+
+msgid "MissingPermissions"
+msgstr "Il me manque des autorisations !"
+
+msgid "noTicketErr"
+msgstr "Il ne s'agit pas d'un ticket."
+
+msgid "runInATicketPost"
+msgstr "Exécutez à nouveau cette commande, mais dans un ticket."
+
+msgid "comment"
+msgstr "Commentaire"
+
+msgid "InvalidInput"
+msgstr "Entrée invalide"
+
+msgid "CloseRequest"
+msgstr "Fermer la demande"
+
+msgid "CloseTheTicketOrDeny"
+msgstr "Fermer le ticket ou refuser la demande."
+
+msgid "UserCanCloseTheTicketOrDeny"
+msgstr "L'utilisateur peut maintenant fermer le ticket ou refuser la demande."
+
+msgid "AutoClose"
+msgstr "Fermeture automatique"
+
+msgid "UserNotFound"
+msgstr "Utilisateur non trouvé"
+
+msgid "MessagingUserFailed"
+msgstr ""
+"L'envoi d'un message à l'utilisateur a échoué. Peut-être n'est-il plus dans "
+"le serveur ?"
+
+msgid "closeTicket"
+msgstr "Fermer le ticket"
+
+msgid "denyCloseRequest"
+msgstr "Refuser"
+
+msgid "AutomaticClosure"
+msgstr "Fermé automatiquement pour cause d'inactivité."
+
+msgid "UserLeftGuild"
+msgstr "L'utilisateur a quitté le serveur"
+
+msgid "ClosingTicket"
+msgstr "Ticket de clôture..."
+
+msgid "CloseRequestDeleted"
+msgstr "Demande de fermeture supprimée"
+
+msgid "CloseRequestAutoDeleted"
+msgstr ""
+"Demande de fermeture automatiquement supprimée en raison de l'activité "
+"récente dans le ticket."
+
+msgid "JumpToOriginalInquiry"
+msgstr "Aller au sommet"
+
+msgid "TicketReopened"
+msgstr "Réouverture du ticket"
+
+msgid "YourTicketGotReopened"
+msgstr "Votre ticket a été réouvert !"
+
+msgid "TicketDetailsDM"
+msgstr ""
+"- **Identification du ticket:** `{ticket_id}`\n"
+"- **Opened:** <t:{open_ts}> (<t:{open_ts}:R>)"
+
+msgid "TicketIsStillOpen"
+msgstr "Ce ticket est encore ouvert !"
+
+msgid "TicketNotFound"
+msgstr "Ticket introuvable. Vos données sont-elles correctes ?"
+
+msgid "JumpToTicket"
+msgstr "[Aller au ticket]({0})"
+
+msgid "thisTicketIsAlreadyClosed"
+msgstr "Ce ticket est déjà clôturé."
+
+msgid "EnterValidNumber"
+msgstr "Format : docs.supportmail.dev/e/time-strings"
+
+msgid "cR_Accepted"
+msgstr "Demande acceptée"
+
+msgid "cR_Denied"
+msgstr "Demande rejetée"
+
+msgid "NoOpenCR"
+msgstr "Aucune demande de fermeture ouverte n'a été trouvée !"
+
+msgid "SendMessage"
+msgstr "Envoyer un message"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Member"
+msgstr "Membre"
+
+msgid "Markdown"
+msgstr "La démarque complète est prise en charge !"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "InvalidUser"
+msgstr "Utilisateur non valide"
+
+msgid "YouGotAMessage"
+msgstr "Vous avez reçu un message !"
+
+msgid "NotTicketRelated"
+msgstr "Ce message n'est pas lié à un ticket !"
+
+msgid "DMsDisabled"
+msgstr "L'utilisateur a désactivé les DM !"
+
+msgid "SendingFailed"
+msgstr "Échec de l'envoi"
+
+msgid "MessageSent"
+msgstr "Message envoyé"

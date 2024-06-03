@@ -1,8 +1,445 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-# msgid ""
-# msgstr ""
+msgid "PanelControls"
+msgstr "Commandes du panneau"
+
+msgid "PanelControlsDesc"
+msgstr ""
+"Ici, vous pouvez configurer et gérer les panneaux.\n"
+"### Options :\n"
+"1. **Enter panel link:** Cliquez sur le bouton ci-dessous pour entrer un lien pour un panneau existant et le modifier.\n"
+"2. **Configurer un nouveau panel:** Cliquez sur le bouton ci-dessous pour configurer et envoyer un nouveau panel.\n"
+"\n"
+"Veuillez sélectionner l'une des options ci-dessus pour continuer."
+
+msgid "CreateNewPanel"
+msgstr "Créer un nouveau panneau"
+
+msgid "EditExistingPanel"
+msgstr "Modifier un panneau existant"
+
+msgid "AnonymConfig"
+msgstr "Configuration de l'anonymat"
+
+msgid "anonymAliasExpl"
+msgstr ""
+"Si cette option est activée, les utilisateurs verront l'alias configuré au lieu de l'utilisateur qui a répondu.\n"
+"\n"
+"> Par défaut : **{0}**"
+
+msgid "FreeVersion"
+msgstr ":avertissement : Version gratuite"
+
+msgid "GoldNeededToConfigure"
+msgstr ""
+"Vous pouvez utiliser cette fonction, mais vous avez besoin de **SupportMail "
+"Gold** pour la configurer."
+
+msgid "MessageForwardingPreference"
+msgstr "Préférence pour la transmission des messages"
+
+msgid "onlyMessagesWithMentionWillBeForwarded"
+msgstr ""
+"Si cette option est activée, seuls les messages commençant par la mention "
+"<@1082707872565182614> seront transmis à l'utilisateur."
+
+msgid "CurrentConfiguration"
+msgstr "Configuration actuelle"
+
+msgid "Enable"
+msgstr "Activer"
+
+msgid "Disable"
+msgstr "Désactiver"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Disabled"
+msgstr "Handicapés"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "NotIgnoredBotsInTickets"
+msgstr "Les bots qui ne sont pas ignorés dans les tickets"
+
+msgid "SelectBotsDesc"
+msgstr ""
+"Sélectionnez les bots qui doivent être ajoutés et désélectionnez les bots "
+"que vous souhaitez supprimer."
+
+msgid "SelectUpTo5"
+msgstr "Sélectionner jusqu'à 5"
+
+msgid "NoConfigFoundForThisModule"
+msgstr "Aucune configuration n'a été trouvée pour ce module."
+
+msgid "startConfigurationWithCompsBelow"
+msgstr "Commencez la configuration en utilisant les composants ci-dessous."
+
+msgid "TicketPings"
+msgstr "Ticket-Pings"
+
+msgid "ReportPings"
+msgstr "Signalement"
+
+msgid "editPanelDesc"
+msgstr ""
+"Vous pouvez voir ci-dessous un aperçu du panel-embed qui devrait être envoyé.\n"
+"Modifiez-le en cliquant sur le bouton ci-dessous."
+
+msgid "ButtonConfiguration"
+msgstr "Configuration des boutons"
+
+msgid "panelButtonText"
+msgstr "Texte du bouton"
+
+msgid "panelButtonEmoji"
+msgstr "Emoji bouton"
+
+msgid "emojiPlh"
+msgstr "Unicode ou Emoji personnalisé"
+
+msgid "clickToEditPanel"
+msgstr "Modifier l'intégration du panneau"
+
+msgid "noMarkdown"
+msgstr "Pas de démarque ici !"
+
+msgid "allMarkdown"
+msgstr "Prise en charge complète du markdown !"
+
+msgid "PanelEmbedBuilder"
+msgstr "Constructeur de panneaux et d'embases"
+
+msgid "panelTitle"
+msgstr "Intégrer le titre"
+
+msgid "panelDesc"
+msgstr "Embed Description"
+
+msgid "embedColor"
+msgstr "Intégrer la couleur"
+
+msgid "colorPlh"
+msgstr "Format : docs.supportmail.dev/f/panel"
+
+msgid "editAlias"
+msgstr "Modifier l'alias"
+
+msgid "UserInputError"
+msgstr "Entrée invalide !"
+
+msgid "InvalidChannelError"
+msgstr "Canal non valide !"
+
+msgid "InvalidMessageError"
+msgstr "Message non valide !"
+
+msgid "panelSendButton"
+msgstr "Panneau d'envoi"
+
+msgid "JumpToPanel"
+msgstr "Sauter au panneau"
+
+msgid "panelCreatedTitle"
+msgstr "Panel créé"
+
+msgid "clickButtonToSendPanel"
+msgstr ""
+"Cliquez sur les boutons ci-dessous pour\n"
+"- envoyer le panneau actuel\n"
+"- modifier la configuration actuelle une autre fois"
+
+msgid "youTimedOut"
+msgstr "Vous avez dépassé le temps imparti !"
+
+msgid "youHad5MinutesToClickTheButton"
+msgstr ""
+"Vous aviez 5 minutes pour cliquer sur le bouton, mais vous ne l'avez pas fait.\n"
+"J'ai annulé les modifications que vous aviez déjà effectuées pour des raisons de performance."
+
+msgid "panelSent"
+msgstr "Envoi du panel"
+
+msgid "panelEdited"
+msgstr "Message édité"
+
+msgid "editPanel"
+msgstr "Panneau d'édition"
+
+msgid "linkToPanel"
+msgstr "Message-Link"
+
+msgid "createNewEmbed"
+msgstr "Créer un nouvel encart"
+
+msgid "selcetChannelForPanel"
+msgstr ""
+"Sélectionnez le canal pour le nouveau panneau.\n"
+"Vous pourrez configurer le panneau ultérieurement."
+
+msgid "Serverteam"
+msgstr "Équipe de serveurs"
+
+msgid "CreatePanelButton"
+msgstr "Créer un panel"
+
+msgid "clickButtonToCreatePanel"
+msgstr ""
+"Maintenant que vous avez sélectionné une chaîne, vous pouvez modifier le panneau.\n"
+"Vous pouvez actuellement changer de chaîne si vous le souhaitez."
+
+msgid "addChannels"
+msgstr "Ajouter des chaînes"
+
+msgid "removeChannels"
+msgstr "Supprimer des chaînes"
+
+msgid "TicketChannel"
+msgstr "Ticket-Forum"
+
+msgid "ReportChannel"
+msgstr "Signalement"
+
+msgid "ReportChannelDesc"
+msgstr ""
+"Ceci décrit le canal dans lequel les nouveaux signalements sont postés.\n"
+"> Canal actuel : {0}"
+
+msgid "ImmuneSettings"
+msgstr "Paramètres d'immunité"
+
+msgid "ExcludedChannels"
+msgstr "Chaînes exclues"
+
+msgid "IncludedChannels"
+msgstr "Chaînes incluses"
+
+msgid "ExInChannels"
+msgstr "Chaînes exclues/incluses"
+
+msgid "SelectedChannelsAreExcluded"
+msgstr "Les signalements ne sont PAS possibles dans les canaux sélectionnés"
+
+msgid "SelectedChannelsAreIncluded"
+msgstr "Les signalements ne sont possibles que dans les canaux sélectionnés."
+
+msgid "Modroles"
+msgstr "Modroles"
+
+msgid "ModrolesDesc"
+msgstr ""
+"Seuls les rôles sélectionnés peuvent utiliser les boutons des signalements. "
+"(si activé)"
+
+msgid "actionButtons"
+msgstr "Boutons sur les signalement"
+
+msgid "YouSureYouWantToResetConfig"
+msgstr ""
+"Êtes-vous sûr de vouloir réinitialiser la configuration sélectionnée ?"
+
+msgid "premium"
+msgstr "Premium (SupportMail Gold)"
+
+msgid "premiumNA"
+msgstr ":x : Aucun abonnement actif n'a été trouvé."
+
+msgid "premiumD"
+msgstr ""
+"- Jusqu'à : {until}\n"
+"\n"
+"Votre abonnement sera automatiquement renouvelé à moins que vous ne l'annuliez."
+
+msgid "premiumUL"
+msgstr "**Limité**"
+
+msgid "TicketConfig"
+msgstr "Configuration du ticket"
+
+msgid "ReportConfig"
+msgstr "Configuration du signalement"
+
+msgid "notEnabled"
+msgstr "Non activé"
+
+msgid "ticketForum"
+msgstr "Ticket-Forum"
+
+msgid "maskedLinks"
+msgstr "Liens masqués"
+
+msgid "maskedLinksAreUnmasked"
+msgstr ""
+"Les liens masqués sont \"démasqués\" si un utilisateur envoie des liens "
+"masqués dans son message."
+
+msgid "maskedLinksAreIgnored"
+msgstr ""
+"Les liens masqués sont ignorés si un utilisateur envoie un lien masqué dans "
+"son message."
+
+msgid "FeatureEnabled"
+msgstr "Fonction activée"
+
+msgid "FeatureDisabled"
+msgstr "Fonction désactivée"
+
+msgid "MessageForwardingPreferenceEnabled"
+msgstr ""
+"Seuls les messages commençant par la mention <@1082707872565182614> seront "
+"transmis à l'utilisateur. [En savoir plus] (https://docs.supportmail.dev/)"
+
+msgid "generalConfig"
+msgstr "Configuration générale"
+
+msgid "translationsLeft"
+msgstr "Traductions à gauche"
+
+msgid "language"
+msgstr "Langue"
+
+msgid "FeatureAlreadyDisabled"
+msgstr "Fonctionnalité déjà désactivée"
+
+msgid "FeatureAlreadyEnabled"
+msgstr "Fonctionnalité déjà activée"
+
+msgid "anonymConfig"
+msgstr "Paramètres d'anonymat"
+
+msgid "addPings"
+msgstr "Ajouter des rôles et des utilisateurs"
+
+msgid "reomvePings"
+msgstr "Supprimer des rôles et des utilisateurs"
+
+msgid "ResetNotExecuted"
+msgstr "La réinitialisation n'a pas été exécutée."
+
+msgid "ModuleReset"
+msgstr "Réinitialisation du module"
+
+msgid "AliasLabel"
+msgstr "Nouvel alias | Vide = Réinitialiser"
+
+msgid "TCreationMessage"
+msgstr "Message de création de ticket"
+
+msgid "TCreationMessageDesc"
+msgstr ""
+"Le message configuré ici sera envoyé en tant qu'Embed supplémentaire lorsque quelqu'un crée un ticket dans votre serveur.\n"
+"Vous pouvez configurer les options suivantes :\n"
+"- Texte (Markdown complet pris en charge)\n"
+"- Couleur de l'incorporation (voir [ce guide](https://docs.supportmail.dev/f/panel) pour l'aspect de la couleur)\n"
+"- Lien image (voir [ce guide](https://docs.supportmail.dev/f/ticket-creation-message) pour les instructions)\n"
+"\n"
+"Si vous ne fournissez pas un lien d'image valide, aucune erreur ne sera affichée, l'image ne sera tout simplement pas affichée."
+
+msgid "TicketCreated"
+msgstr "Ticket créé"
+
+msgid "ConfigureCreationMessage"
+msgstr "Configurer le message"
+
+msgid "ImageLink"
+msgstr "Image Link | Empty = Supprimer"
+
+msgid "ImageLinkPh"
+msgstr "Format : docs.supportmail.dev/f/"
+
+msgid "EditImage"
+msgstr "Modifier l'image"
+
+msgid "Logging"
+msgstr "Enregistrement"
+
+msgid "LoggingInfo"
+msgstr ""
+"Vous pouvez y configurer l'enregistrement de divers événements.\n"
+"> Vous trouverez une liste des événements pouvant être consignés [ici](https://docs.supportmail.dev/f/logging#loggable-events).\n"
+"> Découvrez comment cela fonctionne [ici](https://docs.supportmail.dev/commands/config/logging)."
+
+msgid "MissingWebhookPermissions"
+msgstr ""
+"Il me manque des permissions !\n"
+"Je dois avoir la permission de `Create Webhooks` dans le canal sélectionné."
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "WebhookNotFound"
+msgstr "Webhook introuvable"
+
+msgid "TicketEvents"
+msgstr "Ticket Events"
+
+msgid "ReportEvents"
+msgstr "Signalement des événements"
+
+msgid "BlacklistEvents"
+msgstr "Événements de la liste noire"
+
+msgid "LogTCreate"
+msgstr "Création d'un ticket"
+
+msgid "LogTClosed"
+msgstr "Fermeture du ticket"
+
+msgid "LogTDelete"
+msgstr "Suppression du ticket"
+
+msgid "LogTReopen"
+msgstr "Réouverture des tickets"
+
+msgid "LogRCreate"
+msgstr "Création d'un signalement"
+
+msgid "LogRUpdate"
+msgstr "Mise à jour du signalement"
+
+msgid "LogRIgnore"
+msgstr "Signalement de l'ignorance"
+
+msgid "LogBAdd"
+msgstr "Liste noire Ajouter"
+
+msgid "LogBRemove"
+msgstr "Liste noire Supprimer"
+
+msgid "LogBClear"
+msgstr "Effacer la liste noire"
+
+msgid "ResetLogModule"
+msgstr "Réinitialisation du module d'enregistrement"
+
+msgid "DeleteTicketWH"
+msgstr "Ticket Log-Webhook deletion failed."
+
+msgid "DeleteReportWH"
+msgstr ""
+"Report Log-Webhook deletion failed (Échec de la suppression du webhook)."
+
+msgid "DeleteBlacklistWH"
+msgstr ""
+"Blacklist Log-Webhook deletion failed (Échec de la suppression du Blacklist "
+"Log-Webhook)."
+
+msgid "Errors"
+msgstr "Erreurs"
+
+msgid "ResetAllLogs"
+msgstr "Réinitialisation de tous les modules d'enregistrement"
+
+msgid "UpdateWebhookCreated"
+msgstr "Création de webhooks"

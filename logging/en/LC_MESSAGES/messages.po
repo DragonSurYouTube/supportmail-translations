@@ -4,53 +4,88 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: en\n"
 
-msgid ""
+msgid "TDetails"
 msgstr ""
+"- **Ticket ID:** `{ticket_id}` | `#{index}`\n"
+"- **Author**: <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`\n"
+"- **Ticket-Post:** https://discord.com/channels/{guild.id}/{channel.id}"
 
-msgid ""
-msgstr ""
+msgid "TClose_Comment"
+msgstr "- **Comment:** {0}"
 
-msgid ""
-msgstr ""
+msgid "LogTdelete"
+msgstr "Ticket deleted"
 
-msgid ""
-msgstr ""
+msgid "LogTcreated"
+msgstr "Ticket created"
 
-msgid ""
-msgstr ""
+msgid "LogTreopen"
+msgstr "Ticket reopened"
 
-msgid ""
-msgstr ""
+msgid "LogTclosed"
+msgstr "Ticket closed"
 
-msgid ""
-msgstr ""
+msgid "LogRcreated"
+msgstr "Report created"
 
-msgid ""
-msgstr ""
+msgid "LogRupdate"
+msgstr "Report update"
 
-msgid ""
-msgstr ""
+msgid "LogRignore"
+msgstr "Report ignore"
 
-msgid ""
+msgid "RDetails"
 msgstr ""
+"- **Report ID:** `#{report_id}`\n"
+"- **Author**: <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`"
+"- **Details:** https://discord.com/channels/{guild.id}/{channel.id}/{message_id}"
 
-msgid ""
-msgstr ""
+msgid "RActionType"
+msgstr "Action"
 
-msgid ""
+msgid "RUpdate_ignore"
 msgstr ""
+"> **Type:** `Report ignored`\n"
+"> **Reason:** {reason}"
 
-msgid ""
+msgid "RUpdate_timeout"
 msgstr ""
+"> **Type:** `User timeouted`\n"
+"> **Until:** <t:{expire_ts}> ( <t:{expire_ts}:R> )\n"
+"> **Reason:** {reason}"
 
-msgid ""
-msgstr ""
+msgid "RUpdate_kick"
+msgstr "> **Action:** `User kicked`"
 
-msgid ""
+msgid "RUpdate_ban"
 msgstr ""
+"> **Action:** `User banned`\n"
+"> **Delete messages until:** <t:{timestamp}> ( <t:{timestamp}:R> )\n"
+"> **Reason:** {reason}"
 
-msgid ""
-msgstr ""
+msgid "RUpdate_delete_message"
+msgstr "> **Action:** `Reported message deleted`"
 
-msgid ""
+msgid "RReason"
+msgstr "- **Reason:** {reason}"
+
+msgid "BDetails"
 msgstr ""
+"- **Action:** `{action}`\n"
+"- **Blacklist:** `{liste}`\n"
+"- **Author**: <@{author.id}> [@{author}](https://discord.com/users/{author.id}/) | `{author.id}`"
+
+msgid "BAction_add"
+msgstr "Users/Roles added"
+
+msgid "BAction_remove"
+msgstr "Users/Roles removed"
+
+msgid "BAction_clear"
+msgstr "Blacklist cleared"
+
+msgid "BUsers"
+msgstr "- **Users:** {0}"
+
+msgid "BRoles"
+msgstr "- **Roles:** {0}"

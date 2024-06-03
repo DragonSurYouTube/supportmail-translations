@@ -88,7 +88,7 @@ msgid "TicketIsStillOpen"
 msgstr "This Ticket is still open!"
 
 msgid "TicketNotFound"
-msgstr "icket not found. Is your input correct?"
+msgstr "Ticket not found. Is your input correct?"
 
 msgid "JumpToTicket"
 msgstr "[Jump to Ticket]({0})"
@@ -97,7 +97,7 @@ msgid "thisTicketIsAlreadyClosed"
 msgstr "This Ticket is already closed."
 
 msgid "EnterValidNumber"
-msgstr "Enter a number between 0.1 and 48 (including both)"
+msgstr "Format: docs.supportmail.dev/e/time-strings"
 
 msgid "cR_Accepted"
 msgstr "Request accpeted"
@@ -107,3 +107,36 @@ msgstr "Request denied"
 
 msgid "NoOpenCR"
 msgstr "No open close-request found!"
+
+msgid "SendMessage"
+msgstr "Send Message"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Member"
+msgstr "Member"
+
+msgid "Markdown"
+msgstr "Full markdown supprted!"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "InvalidUser"
+msgstr "Invalid User"
+
+msgid "YouGotAMessage"
+msgstr "You got a message!"
+
+msgid "NotTicketRelated"
+msgstr "This message is NOT related to a Ticket!"
+
+msgid "DMsDisabled"
+msgstr "User has DMs disabled!"
+
+msgid "SendingFailed"
+msgstr "Sending failed"
+
+msgid "MessageSent"
+msgstr "Message Sent"

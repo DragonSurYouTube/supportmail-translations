@@ -1,8 +1,200 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-# msgid ""
-# msgstr ""
+msgid "TryAgainIn"
+msgstr "Réessayez {0}"
+
+msgid "InvalidInput"
+msgstr "Entrée invalide"
+
+msgid "UserNotFound"
+msgstr "L'utilisateur n'est plus dans le serveur."
+
+msgid "ReportingNotPossible"
+msgstr ""
+"Signalement d'un utilisateur n'est possible que si l'utilisateur est membre "
+"du serveur."
+
+msgid "YouTimedOut"
+msgstr "Vous avez dépassé le temps imparti !"
+
+msgid "YouHad10Minutes"
+msgstr "Vous disposiez de 10 minutes pour soumettre le signalement."
+
+msgid "ReportDetailsHadBeenSentToYourDMs"
+msgstr "Les détails du signalement ont été envoyés à vos contacts directs."
+
+msgid "ReportDetailsCouldntBeSentToYourDMs"
+msgstr "Les détails du signalement n'ont pas pu être envoyés à vos DM."
+
+msgid "ReportCreated"
+msgstr "Signalement créé !"
+
+msgid "TakeAction"
+msgstr "Agir"
+
+msgid "Timeout"
+msgstr "Timeout Utilisateur"
+
+msgid "Kick"
+msgstr "Utilisateur de coups de pied"
+
+msgid "Ban"
+msgstr "Bannir l'utilisateur"
+
+msgid "DeleteMessage"
+msgstr "Supprimer le message surligné"
+
+msgid "Ignore"
+msgstr "Ignorer le signalement"
+
+msgid "Userinfo"
+msgstr "Informations sur l'utilisateur"
+
+msgid "ReportedUser"
+msgstr "Utilisateur signalement"
+
+msgid "Reporter"
+msgstr "Signalement"
+
+msgid "UserDetails"
+msgstr ""
+"- **Utilisateur:** <@{userid}>\n"
+"- **ID:** `{userid}`\n"
+"- **Compte créé:** {usercreated}\n"
+"- **Joined Server:** {userjoined}"
+
+msgid "ReportedMessage"
+msgstr "Message signalement"
+
+msgid "RepliedTo"
+msgstr "Répondu à"
+
+msgid "Reason"
+msgstr "Raison"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "UserNoMember"
+msgstr "L'utilisateur n'est pas membre du serveur pour le moment"
+
+msgid "Attachments"
+msgstr "Pièces jointes"
+
+msgid "LastMessageMetadataTitle"
+msgstr "Métadonnées du message"
+
+msgid "LastMessageMetadataDesc"
+msgstr ""
+"- **ID:** `{id}`\n"
+"- **Sent:** {messagesent}\n"
+"- **Channel:** {channel}"
+
+msgid "Report"
+msgstr "Signalement"
+
+msgid "YouCantReportYourself"
+msgstr "Vous ne pouvez pas vous signalement vous-même !"
+
+msgid "OnCooldown"
+msgstr "Sélectionner un autre utilisateur"
+
+msgid "ReportUser"
+msgstr "Signalement de l'utilisateur"
+
+msgid "ReportMessage"
+msgstr "Signalement du message"
+
+msgid "reasonPh"
+msgstr "Spam, escroquerie, NSFW, harcèlement/insultes, etc."
+
+msgid "commentPh"
+msgstr ""
+"Captures d'écran supplémentaires ou informations susceptibles d'être "
+"importantes."
+
+msgid "Blacklisted"
+msgstr "Vous n'êtes pas autorisé à créer des signalements."
+
+msgid "UserIsImmune"
+msgstr "L'utilisateur est immunisé contre les signalements !"
+
+msgid "SomethingWentWrong"
+msgstr "Quelque chose n'a pas fonctionné"
+
+msgid "NoPermissions"
+msgstr "Il me manque une autorisation importante dans le canal d'alerte"
+
+msgid "GuildNotConfigured"
+msgstr "Guilde non configurée"
+
+msgid "ReportingNotEnabledInThisChannel"
+msgstr "Aucun signalement ne peut être créé dans ce canal."
+
+msgid "SelectUserToViewStats"
+msgstr "Sélectionnez un utilisateur pour afficher ses statistiques."
+
+msgid "ReportNotFound"
+msgstr "Le signalement n'a pas été trouvé."
+
+msgid "ReceivedReports"
+msgstr "Signalement"
+
+msgid "SubmittedReports"
+msgstr "Signalement"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "statusUpdate_ignore"
+msgstr "{0} | Ignoré par <@{1}>"
+
+msgid "statusUpdate_timeout"
+msgstr "{0} | L'utilisateur est temporisé jusqu'à {1} par <@{2}>."
+
+msgid "statusUpdate_kick"
+msgstr "{0} | L'utilisateur a été expulsé par <@{1}>."
+
+msgid "statusUpdate_banned"
+msgstr "{0} | Utilisateur banni par <@{1}>."
+
+msgid "statusUpdate_deleted"
+msgstr "{0} | Message signalement supprimé par <@{1}>."
+
+msgid "ReportAlreadyIgnored"
+msgstr "Signalement déjà ignoré"
+
+msgid "TryAgainInOrWaitUntilEditingFinished"
+msgstr ""
+"Réessayez dans 5 minutes ou attendez que le rédacteur ait fini d'éditer ce "
+"signalement."
+
+msgid "editingUser"
+msgstr "Modification de l'utilisateur : <@{0}>"
+
+msgid "ReportIsCurrentlyBeingEdited"
+msgstr "Le signalement est en cours d'édition"
+
+msgid "DeletingMessageFailed"
+msgstr "L'effacement du message a échoué"
+
+msgid "DeleteMessagesLabel"
+msgstr "Supprimer des messages"
+
+msgid "TimestringPh"
+msgstr ""
+"Format de la durée :\n"
+"docs.supportmail.dev/e/time-strings"
+
+msgid "KickingFailed"
+msgstr "Le renvoi de l'utilisateur a échoué"
+
+msgid "UpdateSuccessful"
+msgstr "Mise à jour réussie"
+
+msgid "ReasonPh"
+msgstr ""
+"La raison de cette action (elle n'est affichée que si elle n'est pas "
+"partagée)"

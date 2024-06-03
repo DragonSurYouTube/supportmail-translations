@@ -1,8 +1,208 @@
+#
 msgid ""
-msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+msgstr "Content-Type: text/plain; charset=utf-8\n"
 
-# msgid ""
-# msgstr ""
+msgid "AnErrorOccured"
+msgstr "Une erreur s'est produite !"
+
+msgid "SomethingWentWrong"
+msgstr "Quelque chose n'a pas fonctionné"
+
+msgid "SendTheErrorCodeToTheSupport"
+msgstr ""
+"Veuillez envoyer le code d'erreur suivant au [support] "
+"(https://discord.gg/rFkVQx3vpj) !"
+
+msgid "noConfiguredGuildFound"
+msgstr "Aucune guilde configurée n'a été trouvée !"
+
+msgid "noMutualGuildConfigured"
+msgstr ""
+"La fonction de ticket n'est activée sur aucun de nos serveurs partagés."
+
+msgid "SelectAServerTitle"
+msgstr "Sélectionner un serveur"
+
+msgid "SelectAServerDesc"
+msgstr ""
+"Veuillez sélectionner le serveur auquel vous souhaitez envoyer votre message.\n"
+"Utilisez le menu de sélection ci-dessous."
+
+msgid "SelectAServerPh"
+msgstr "Sélectionner un serveur"
+
+msgid "createNewTicket"
+msgstr "Créer un nouveau ticket"
+
+msgid "continueInTicket"
+msgstr "Poursuivre dans un ticket ouvert"
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "ChangeServer"
+msgstr "Changer de serveur"
+
+msgid "CancelRequest"
+msgstr "Annuler"
+
+msgid "TicketDetails"
+msgstr "Ticket ID : {0}"
+
+msgid "MessageForwardedToGuild"
+msgstr "Message transmis à la guilde"
+
+msgid "CreateNewTicketQuestion"
+msgstr "Créer un nouveau ticket ?"
+
+msgid "ServerInfo"
+msgstr ""
+"- **Guild Name:** {0.name}\n"
+"- **Guild ID:** `{0.id}`"
+
+msgid "UserMessageText"
+msgstr "### {0.mention} a dit :"
+
+msgid "Attachments"
+msgstr "Pièces jointes"
+
+msgid "OnlyForbiddenAttachmentsWereSent"
+msgstr "Seules les pièces jointes interdites ont été envoyées."
+
+msgid "OnlyImagesAndVideosAreSupported"
+msgstr "Seules les images et les vidéos sont prises en charge !"
+
+msgid "AttachmentsSkipped"
+msgstr "Pièces jointes ignorées : {0}"
+
+msgid "YouGotAMessage"
+msgstr "Vous avez reçu un message"
+
+msgid "UnsupportedAttachments"
+msgstr "Pièces jointes non prises en charge"
+
+msgid "HandleUnknownAttachmentsWithCare"
+msgstr ""
+"Manipulez les pièces jointes inconnues avec précaution - SupportMail n'est "
+"pas responsable des fichiers malveillants !"
+
+msgid "TicketChannelLocked"
+msgstr "Le canal du ticket est verrouillé."
+
+msgid "ContactAServerAdmin"
+msgstr "Veuillez contacter un administrateur de serveur !"
+
+msgid "TicketChannelDoesntExist"
+msgstr "Le ticket-channel correspondant n'existe pas."
+
+msgid "createANewTicketQuestion"
+msgstr "Créez un nouveau ticket avec les éléments suivants"
+
+msgid "TicketChannelCreationFailed"
+msgstr "La création d'un ticket a échoué !"
+
+msgid "UserinfoTitle"
+msgstr "Informations sur l'utilisateur"
+
+msgid "Userinfo"
+msgstr ""
+"- Utilisateur : [@{0.username}](https://discord.com/users/{0.id}/) | {0.mention}\n"
+"- Identifiant de l'utilisateur : `{0.id}`\n"
+"- Joined Discord : {1}\n"
+"- Joined Server : {2}"
+
+msgid "Roles"
+msgstr "Rôles d'utilisateurs"
+
+msgid "ticketPostTitle"
+msgstr "Ticket {count} | #{ticket_id}"
+
+msgid "TicketAlreadyClosed"
+msgstr "Ticket déjà fermé."
+
+msgid "YouAreBlacklisted"
+msgstr "Vous êtes sur la liste noire de ce serveur !"
+
+msgid "YouCanOnlyInteractInOpenTickets"
+msgstr ""
+"Vous ne pouvez pas créer de nouveaux tickets, mais seulement interagir avec "
+"le ticket en cours."
+
+msgid "YouAreBlacklistedOnAllServers"
+msgstr ""
+"Vous êtes sur la liste noire de tous les serveurs que nous partageons !"
+
+msgid "TicketCreated"
+msgstr "Ticket créé"
+
+msgid "ServerNotFound"
+msgstr "Serveur non trouvé !"
+
+msgid "ImNotInTheServerAnymore"
+msgstr "Il semble que je ne sois plus dans le serveur."
+
+msgid "YourMessageWasDeleted"
+msgstr "Votre message a été supprimé !"
+
+msgid "DontDeleteYourMessage"
+msgstr "Ne supprimez pas votre message !"
+
+msgid "ForwardToLastTicket"
+msgstr "Souhaitez-vous poursuivre votre ticket ouvert ?"
+
+msgid "ForwardInfo"
+msgstr ""
+"- **Guild name:** {0.name}\n"
+"- **Guild ID:** `{0.id}`\n"
+"- **Ticket ID:** `{1}`\n"
+"\n"
+"Sélectionnez une option ci-dessous."
+
+msgid "DangerousAttachments"
+msgstr "Pièces jointes potentiellement dangereuses"
+
+msgid "TicketChannelNotFound"
+msgstr "Canal de tickets introuvable !"
+
+msgid "SendingFailed"
+msgstr "L'envoi d'un message a échoué."
+
+msgid "EnableYourDMs"
+msgstr "Veuillez activer vos DM."
+
+msgid "CreateTicket"
+msgstr "Créer un ticket"
+
+msgid "CreateTicketDesc"
+msgstr ""
+"Veuillez envoyer votre demande. Un ticket contenant votre message sera automatiquement créé.\n"
+"\n"
+"Si vous souhaitez annuler ce processus, cliquez sur le bouton :x : ci-dessous."
+
+msgid "YouHave5Mins"
+msgstr "Vous avez 5 minutes pour envoyer votre demande."
+
+msgid "UserNotFound"
+msgstr "L'utilisateur n'est plus dans le serveur."
+
+msgid "AutomaticClosure"
+msgstr "Fermé automatiquement pour cause d'inactivité."
+
+msgid "CreationAlreadyInProgress"
+msgstr ""
+"Vous avez déjà un processus de création de ticket en cours.\n"
+"Veuillez vous rendre sur notre canal DM et créer un ticket."
+
+msgid "YouAlreadyHaveATicket"
+msgstr ""
+"Vous avez déjà un ticket ouvert sur ce serveur.\n"
+"Veuillez terminer ce ticket avant d'en créer un nouveau."
+
+msgid "JumpToDM"
+msgstr "Aller à DM"
+
+msgid "TicketingNotEnabled"
+msgstr "La billetterie n'est pas activée dans ce serveur."
+
+msgid "thisTicketIsClosed"
+msgstr "### Ce ticket est déjà fermé !"
