@@ -1,6 +1,6 @@
 #
 msgid ""
-msgstr "Content-Type: text/plain; charset=utf-8\n"
+msgstr "Content-Type: text/plain; charset=utf-8; Language: fr\n"
 
 msgid "TicketID"
 msgstr "**Ticket ID:** `{0}`."
