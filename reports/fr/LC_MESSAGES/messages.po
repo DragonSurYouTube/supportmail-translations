@@ -170,9 +170,7 @@ msgid "ReportAlreadyIgnored"
 msgstr "Signalement déjà ignoré"
 
 msgid "TryAgainInOrWaitUntilEditingFinished"
-msgstr ""
-"Réessayez dans 5 minutes ou attendez que le rédacteur ait fini d'éditer ce "
-"signalement."
+msgstr "Réessayez dans 5 minutes ou attendez que le rédacteur ait fini d'éditer ce signalement."
 
 msgid "editingUser"
 msgstr "Modification de l'utilisateur : <@{0}>"
@@ -188,8 +186,7 @@ msgstr "Supprimer des messages"
 
 msgid "TimestringPh"
 msgstr ""
-"Format de la durée :\n"
-"docs.supportmail.dev/e/time-strings"
+"Format de la durée :\ndocs.supportmail.dev/e/time-strings"
 
 msgid "KickingFailed"
 msgstr "Le renvoi de l'utilisateur a échoué"
@@ -199,5 +196,4 @@ msgstr "Mise à jour réussie"
 
 msgid "ReasonPh"
 msgstr ""
-"La raison de cette action (elle n'est affichée que si elle n'est pas "
-"partagée)"
+"La raison de cette action (elle n'est affichée que si elle n'est pas partagée)"

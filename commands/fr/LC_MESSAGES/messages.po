@@ -37,16 +37,14 @@ msgstr ":avertissement : Version gratuite"
 
 msgid "GoldNeededToConfigure"
 msgstr ""
-"Vous pouvez utiliser cette fonction, mais vous avez besoin de **SupportMail "
-"Gold** pour la configurer."
+"Vous pouvez utiliser cette fonction, mais vous avez besoin de **SupportMail Gold** pour la configurer."
 
 msgid "MessageForwardingPreference"
 msgstr "Préférence pour la transmission des messages"
 
 msgid "onlyMessagesWithMentionWillBeForwarded"
 msgstr ""
-"Si cette option est activée, seuls les messages commençant par la mention "
-"<@1082707872565182614> seront transmis à l'utilisateur."
+"Si cette option est activée, seuls les messages commençant par la mention <@1082707872565182614> seront transmis à l'utilisateur."
 
 msgid "CurrentConfiguration"
 msgstr "Configuration actuelle"
@@ -242,8 +240,7 @@ msgstr "Modroles"
 
 msgid "ModrolesDesc"
 msgstr ""
-"Seuls les rôles sélectionnés peuvent utiliser les boutons des signalements. "
-"(si activé)"
+"Seuls les rôles sélectionnés peuvent utiliser les boutons des signalements. (si activé)"
 
 msgid "actionButtons"
 msgstr "Boutons sur les signalement"
@@ -284,8 +281,7 @@ msgstr "Liens masqués"
 
 msgid "maskedLinksAreUnmasked"
 msgstr ""
-"Les liens masqués sont \"démasqués\" si un utilisateur envoie des liens "
-"masqués dans son message."
+"Les liens masqués sont \"démasqués\" si un utilisateur envoie des liens masqués dans son message."
 
 msgid "maskedLinksAreIgnored"
 msgstr ""
@@ -300,8 +296,8 @@ msgstr "Fonction désactivée"
 
 msgid "MessageForwardingPreferenceEnabled"
 msgstr ""
-"Seuls les messages commençant par la mention <@1082707872565182614> seront "
-"transmis à l'utilisateur. [En savoir plus] (https://docs.supportmail.dev/)"
+"Seuls les messages commençant par la mention <@1082707872565182614> seront transmis à l'utilisateur."
+"[En savoir plus](https://docs.supportmail.dev/)"
 
 msgid "generalConfig"
 msgstr "Configuration générale"

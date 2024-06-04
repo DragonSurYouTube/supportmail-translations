@@ -12,16 +12,13 @@ msgid "SomethingWentWrong"
 msgstr "Quelque chose n'a pas fonctionné"
 
 msgid "SendTheErrorCodeToTheSupport"
-msgstr ""
-"Veuillez envoyer le code d'erreur suivant au [support] "
-"(https://discord.gg/rFkVQx3vpj) !"
+msgstr "Veuillez envoyer le code d'erreur suivant au [support](https://discord.gg/rFkVQx3vpj) !"
 
 msgid "noConfiguredGuildFound"
 msgstr "Aucune guilde configurée n'a été trouvée !"
 
 msgid "noMutualGuildConfigured"
-msgstr ""
-"La fonction de ticket n'est activée sur aucun de nos serveurs partagés."
+msgstr "La fonction de ticket n'est activée sur aucun de nos serveurs partagés."
 
 msgid "SelectAServerTitle"
 msgstr "Sélectionner un serveur"
@@ -86,8 +83,7 @@ msgstr "Pièces jointes non prises en charge"
 
 msgid "HandleUnknownAttachmentsWithCare"
 msgstr ""
-"Manipulez les pièces jointes inconnues avec précaution - SupportMail n'est "
-"pas responsable des fichiers malveillants !"
+"Manipulez les pièces jointes inconnues avec précaution - SupportMail n'est pas responsable des fichiers malveillants !"
 
 msgid "TicketChannelLocked"
 msgstr "Le canal du ticket est verrouillé."
@@ -127,13 +123,10 @@ msgid "YouAreBlacklisted"
 msgstr "Vous êtes sur la liste noire de ce serveur !"
 
 msgid "YouCanOnlyInteractInOpenTickets"
-msgstr ""
-"Vous ne pouvez pas créer de nouveaux tickets, mais seulement interagir avec "
-"le ticket en cours."
+msgstr "Vous ne pouvez pas créer de nouveaux tickets, mais seulement interagir avec le ticket en cours."
 
 msgid "YouAreBlacklistedOnAllServers"
-msgstr ""
-"Vous êtes sur la liste noire de tous les serveurs que nous partageons !"
+msgstr "Vous êtes sur la liste noire de tous les serveurs que nous partageons !"
 
 msgid "TicketCreated"
 msgstr "Ticket créé"
@@ -192,14 +185,10 @@ msgid "AutomaticClosure"
 msgstr "Fermé automatiquement pour cause d'inactivité."
 
 msgid "CreationAlreadyInProgress"
-msgstr ""
-"Vous avez déjà un processus de création de ticket en cours.\n"
-"Veuillez vous rendre sur notre canal DM et créer un ticket."
+msgstr "Vous avez déjà un processus de création de ticket en cours.\nVeuillez vous rendre sur notre canal DM et créer un ticket."
 
 msgid "YouAlreadyHaveATicket"
-msgstr ""
-"Vous avez déjà un ticket ouvert sur ce serveur.\n"
-"Veuillez terminer ce ticket avant d'en créer un nouveau."
+msgstr "Vous avez déjà un ticket ouvert sur ce serveur.\nVeuillez terminer ce ticket avant d'en créer un nouveau."
 
 msgid "JumpToDM"
 msgstr "Aller à DM"

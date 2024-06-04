@@ -6,7 +6,7 @@ msgstr ""
 "Language: fr\n"
 
 msgid "tryAgainIn"
-msgstr "Réessayer {heure}"
+msgstr "Réessayer {time}"
 
 msgid "youAreStillOnCooldown"
 msgstr "Vous êtes encore en phase de refroidissement !"

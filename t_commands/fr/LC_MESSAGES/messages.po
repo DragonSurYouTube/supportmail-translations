@@ -48,9 +48,7 @@ msgid "UserNotFound"
 msgstr "Utilisateur non trouvé"
 
 msgid "MessagingUserFailed"
-msgstr ""
-"L'envoi d'un message à l'utilisateur a échoué. Peut-être n'est-il plus dans "
-"le serveur ?"
+msgstr "L'envoi d'un message à l'utilisateur a échoué. Peut-être n'est-il plus dans le serveur ?"
 
 msgid "closeTicket"
 msgstr "Fermer le ticket"
@@ -71,9 +69,7 @@ msgid "CloseRequestDeleted"
 msgstr "Demande de fermeture supprimée"
 
 msgid "CloseRequestAutoDeleted"
-msgstr ""
-"Demande de fermeture automatiquement supprimée en raison de l'activité "
-"récente dans le ticket."
+msgstr "Demande de fermeture automatiquement supprimée en raison de l'activité récente dans le ticket."
 
 msgid "JumpToOriginalInquiry"
 msgstr "Aller au sommet"
@@ -86,8 +82,8 @@ msgstr "Votre ticket a été réouvert !"
 
 msgid "TicketDetailsDM"
 msgstr ""
-"- **Identification du ticket:** `{ticket_id}`\n"
-"- **Opened:** <t:{open_ts}> (<t:{open_ts}:R>)"
+"- **ID du ticket:** `{ticket_id}`\n"
+"- **Ouvert :** <t:{open_ts}> (<t:{open_ts}:R>)"
 
 msgid "TicketIsStillOpen"
 msgstr "Ce ticket est encore ouvert !"

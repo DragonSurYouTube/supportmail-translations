@@ -61,13 +61,13 @@ msgid "RUpdate_ban"
 msgstr ""
 "> **Action:** `Utilisateur banni`\n"
 "> **Supprimer les messages jusqu'à:** <t:{timestamp}> ( <t:{timestamp}:R> )\n"
-"> **Raison:** {raison}"
+"> **Raison:** {reason}"
 
 msgid "RUpdate_delete_message"
 msgstr "> **Action:** `Message signalé supprimé`"
 
 msgid "RReason"
-msgstr "- **Raison:** {raison}"
+msgstr "- **Raison:** {reason}"
 
 msgid "BDetails"
 msgstr ""

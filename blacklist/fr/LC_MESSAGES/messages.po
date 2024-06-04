@@ -45,7 +45,7 @@ msgstr ""
 "dessous."
 
 msgid "unknown"
-msgstr "Inconnu"
+msgstr "Inconnue"
 
 msgid "SelectAUserToCheck"
 msgstr "Sélectionner un utilisateur à contrôler"

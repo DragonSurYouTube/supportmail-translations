@@ -278,7 +278,8 @@ msgid "FeatureDisabled"
 msgstr "Feature Disabled"
 
 msgid "MessageForwardingPreferenceEnabled"
-msgstr "Only messages starting with the mention of <@1082707872565182614> will be forwarded to the user. [Learn more](https://docs.supportmail.dev/)"
+msgstr "Only messages starting with the mention of <@1082707872565182614> will be forwarded to the user."
+"[Learn more](https://docs.supportmail.dev/)"
 
 msgid "generalConfig"
 msgstr "General Configuration"
