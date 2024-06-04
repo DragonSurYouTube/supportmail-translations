@@ -13,15 +13,13 @@ msgstr "Quelque chose n'a pas fonctionné"
 
 msgid "SendTheErrorCodeToTheSupport"
 msgstr ""
-"Veuillez envoyer le code d'erreur suivant au [support] "
-"(https://discord.gg/rFkVQx3vpj) !"
+"Veuillez envoyer le code d'erreur suivant au [support](https://discord.gg/rFkVQx3vpj) !"
 
 msgid "noConfiguredGuildFound"
 msgstr "Aucune guilde configurée n'a été trouvée !"
 
 msgid "noMutualGuildConfigured"
-msgstr ""
-"La fonction de ticket n'est activée sur aucun de nos serveurs partagés."
+msgstr "La fonction de ticket n'est activée sur aucun de nos serveurs partagés."
 
 msgid "SelectAServerTitle"
 msgstr "Sélectionner un serveur"
