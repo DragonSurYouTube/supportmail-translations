@@ -59,7 +59,7 @@ msgid "Enabled"
 msgstr "Activé"
 
 msgid "Disabled"
-msgstr "Handicapés"
+msgstr "Désactivé"
 
 msgid "Add"
 msgstr "Ajouter"
@@ -88,7 +88,7 @@ msgid "startConfigurationWithCompsBelow"
 msgstr "Commencez la configuration en utilisant les composants ci-dessous."
 
 msgid "TicketPings"
-msgstr "Ticket-Pings"
+msgstr "Ticket-Mentions"
 
 msgid "ReportPings"
 msgstr "Signalement"
@@ -114,19 +114,19 @@ msgid "clickToEditPanel"
 msgstr "Modifier l'intégration du panneau"
 
 msgid "noMarkdown"
-msgstr "Pas de démarque ici !"
+msgstr "Pas de markdown ici !"
 
 msgid "allMarkdown"
 msgstr "Prise en charge complète du markdown !"
 
 msgid "PanelEmbedBuilder"
-msgstr "Constructeur de panneaux et d'embases"
+msgstr "Constructeur de panneaux et d'embeds"
 
 msgid "panelTitle"
 msgstr "Intégrer le titre"
 
 msgid "panelDesc"
-msgstr "Embed Description"
+msgstr "Description de l'embed"
 
 msgid "embedColor"
 msgstr "Intégrer la couleur"
@@ -147,10 +147,10 @@ msgid "InvalidMessageError"
 msgstr "Message non valide !"
 
 msgid "panelSendButton"
-msgstr "Panneau d'envoi"
+msgstr "Envoyer"
 
 msgid "JumpToPanel"
-msgstr "Sauter au panneau"
+msgstr "Aller au panneau"
 
 msgid "panelCreatedTitle"
 msgstr "Panel créé"
@@ -190,7 +190,7 @@ msgstr ""
 "Vous pourrez configurer le panneau ultérieurement."
 
 msgid "Serverteam"
-msgstr "Équipe de serveurs"
+msgstr "Équipe du serveurs"
 
 msgid "CreatePanelButton"
 msgstr "Créer un panel"
@@ -201,10 +201,10 @@ msgstr ""
 "Vous pouvez actuellement changer de chaîne si vous le souhaitez."
 
 msgid "addChannels"
-msgstr "Ajouter des chaînes"
+msgstr "Ajouter des salons"
 
 msgid "removeChannels"
-msgstr "Supprimer des chaînes"
+msgstr "Supprimer des salons"
 
 msgid "TicketChannel"
 msgstr "Ticket-Forum"
@@ -221,22 +221,22 @@ msgid "ImmuneSettings"
 msgstr "Paramètres d'immunité"
 
 msgid "ExcludedChannels"
-msgstr "Chaînes exclues"
+msgstr "Salons exclues"
 
 msgid "IncludedChannels"
-msgstr "Chaînes incluses"
+msgstr "Salons incluses"
 
 msgid "ExInChannels"
-msgstr "Chaînes exclues/incluses"
+msgstr "Salons exclues/incluses"
 
 msgid "SelectedChannelsAreExcluded"
-msgstr "Les signalements ne sont PAS possibles dans les canaux sélectionnés"
+msgstr "Les signalements ne sont PAS possibles dans les salons sélectionnés"
 
 msgid "SelectedChannelsAreIncluded"
-msgstr "Les signalements ne sont possibles que dans les canaux sélectionnés."
+msgstr "Les signalements ne sont possibles que dans les salons sélectionnés."
 
 msgid "Modroles"
-msgstr "Modroles"
+msgstr "Rôle Modérateur"
 
 msgid "ModrolesDesc"
 msgstr ""
@@ -381,7 +381,7 @@ msgid "WebhookNotFound"
 msgstr "Webhook introuvable"
 
 msgid "TicketEvents"
-msgstr "Ticket Events"
+msgstr "Évenements de ticket"
 
 msgid "ReportEvents"
 msgstr "Signalement des événements"
@@ -408,7 +408,7 @@ msgid "LogRUpdate"
 msgstr "Mise à jour du signalement"
 
 msgid "LogRIgnore"
-msgstr "Signalement de l'ignorance"
+msgstr "Signalement Ignoré"
 
 msgid "LogBAdd"
 msgstr "Liste noire Ajouter"
@@ -423,7 +423,7 @@ msgid "ResetLogModule"
 msgstr "Réinitialisation du module d'enregistrement"
 
 msgid "DeleteTicketWH"
-msgstr "Ticket Log-Webhook deletion failed."
+msgstr "Ticket Log-Webhook suppression échouée."
 
 msgid "DeleteReportWH"
 msgstr ""
